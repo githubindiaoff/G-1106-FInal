@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrient Deficiency Prediction | NutriDetector</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"> <!-- Import base variables & reset -->
+    <link rel="stylesheet" href="prediction.css">
+    
+    <!-- HTML2PDF library for downloading reports -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+    <div class="background-decor"></div>
+    
+    <!-- Navigation / Header -->
+    <header class="app-header">
+        <div class="container">
+            <div class="logo">
+                <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4M10 10h4" />
+                </svg>
+                <h1>NutriDetector</h1>
+            </div>
+            <nav>
+                <a href="index.html" class="nav-link">Logout</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container prediction-container">
+        
+        <div class="header-section">
+            <h2 class="page-title">Nutrient Deficiency Prediction</h2>
+            <p class="page-subtitle">Analyze clinical notes or lab reports instantly.</p>
+        </div>
+
+        <!-- Step Indicator -->
+        <div class="step-indicator">
+            <div class="step active" id="step-input">
+                <div class="step-circle">1</div>
+                <span>Input</span>
+            </div>
+            <div class="step-line"></div>
+            <div class="step" id="step-processing">
+                <div class="step-circle">2</div>
+                <span>Processing</span>
+            </div>
+            <div class="step-line"></div>
+            <div class="step" id="step-results">
+                <div class="step-circle">3</div>
+                <span>Results</span>
+            </div>
+        </div>
+
+        <div class="content-wrapper">
+            
+            <!-- SECTION 1: INPUT -->
+            <section id="section-input" class="card active-section">
+                <!-- Input Tabs -->
+                <div class="input-tabs">
+                    <button class="tab-btn input-tab active" data-target="text-input-pane">Text Input</button>
+                    <button class="tab-btn input-tab" data-target="image-input-pane">Image Upload</button>
+                </div>
+
+                <!-- Text Input Pane -->
+                <div id="text-input-pane" class="input-pane active">
+                    <div class="input-group">
+                        <textarea id="clinical-notes" rows="6" placeholder="Paste clinical note or lab report text here..."></textarea>
+                        <div class="textarea-footer">
+                            <button id="clear-text-btn" class="text-btn">Clear</button>
+                            <span id="char-counter">0 chars</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Image Upload Pane -->
+                <div id="image-input-pane" class="input-pane">
+                    <div class="drop-zone" id="drop-zone">
+                        <span class="drop-zone-icon">
+                            <svg viewBox="0 0 24 24" width="40" height="40" stroke="currentColor" stroke-width="2" fill="none">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="17 8 12 3 7 8"></polyline>
+                                <line x1="12" y1="3" x2="12" y2="15"></line>
+                            </svg>
+                        </span>
+                        <p class="drop-zone-prompt">Drag & drop your lab report here, or <span class="browse-link">browse</span></p>
+                        <p class="drop-zone-sub">Accepts JPG, PNG, or PDF</p>
+                        <input type="file" id="file-input" class="drop-zone-input" accept="image/jpeg, image/png, application/pdf">
+                        <div id="file-preview-container" class="hidden">
+                            <!-- Image preview loaded here -->
+                            <img id="image-preview" src="" alt="File Preview">
+                            <p id="file-name" class="file-name-text"></p>
+                            <button id="remove-file-btn" class="text-btn">Remove</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="action-footer">
+                    <button id="analyze-btn" class="primary-btn">Analyze Report</button>
+                </div>
+            </section>
+
+            <!-- SECTION 2: PROCESSING (Hidden initially) -->
+            <section id="section-processing" class="card hidden-section">
+                <div class="loader-container">
+                    <div class="spinner"></div>
+                    <h3>Analyzing...</h3>
+                    <p>Extracting health entities and predicting nutrient deficiencies.</p>
+                </div>
+            </section>
+
+            <!-- SECTION 3: RESULTS (Hidden initially) -->
+            <section id="section-results" class="card hidden-section">
+                
+                <div id="pdf-export-area">
+                    <!-- Heading -->
+                    <div class="results-header">s
+                        <h3>Predicted Nutrient Deficiency</h3>
+                    </div>
+
+                    <!-- Main Prediction Badge -->
+                    <div class="prediction-badge-container">
+                        <div id="primary-deficiency-badge" class="badge large-badge normal">
+                            <!-- Data injected via JS -->
+                        </div>
+                    </div>
+
+                    <!-- Detailed Nutrient Report -->
+                    <div class="detailed-report">
+                        <h4>Detailed Nutrient Report</h4>
+                        <div class="table-responsive">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Nutrient</th>
+                                        <th>Value</th>
+                                        <th>Normal Range</th>
+                                        <th>Status</th>
+                                        <th>Remarks</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="nutrient-table-body">
+                                    <!-- Rows injected via JS -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="report-summary" id="report-summary-block">
+                        <h4>Summary & Recommendation</h4>
+                        <p id="summary-text">...</p>
+                        <p id="recommendation-text" class="recommendation-note">...</p>
+                    </div>
+                </div>
+
+                <!-- Footer actions -->
+                <div class="results-footer">
+                    <button id="reset-btn" class="secondary-btn">New Analysis</button>
+                    <div class="export-actions">
+                        <button id="generate-report-btn" class="secondary-btn">Generate Detailed Report</button>
+                        <button id="download-pdf-btn" class="primary-btn">Download Report (PDF)</button>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+    <script src="prediction.js"></script>
+</body>
+</html>
