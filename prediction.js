@@ -332,34 +332,40 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // UI Toggle for Detailed Report
-    genReportBtn.addEventListener('click', () => {
-        // The detailed report is visible by default in this implementation to ensure good UX flow,
-        // but we can mock expanding/collapsing or highlighting here.
-        const summaryBlock = document.getElementById('report-summary-block');
-        summaryBlock.style.backgroundColor = '#dbeafe'; // highlight
-        setTimeout(() => {
-            summaryBlock.style.backgroundColor = 'var(--input-bg)';
-        }, 1000);
-        alert('Detailed report UI is expanded.');
-    });
+    if (genReportBtn) {
+        genReportBtn.addEventListener('click', () => {
+            // The detailed report is visible by default in this implementation to ensure good UX flow,
+            // but we can mock expanding/collapsing or highlighting here.
+            const summaryBlock = document.getElementById('report-summary-block');
+            summaryBlock.style.backgroundColor = '#dbeafe'; // highlight
+            setTimeout(() => {
+                summaryBlock.style.backgroundColor = 'var(--input-bg)';
+            }, 1000);
+            alert('Detailed report UI is expanded.');
+        });
+    }
 
     // PDF Download using html2pdf
-    dlPdfBtn.addEventListener('click', () => {
-        const element = document.getElementById('pdf-export-area');
-        
-        // Ensure element is fully visible before export
-        element.style.display = 'block';
+    if (dlPdfBtn) {
+        dlPdfBtn.addEventListener('click', () => {
+            const element = document.getElementById('pdf-export-area');
+            
+            // Ensure element is fully visible before export
+            element.style.display = 'block';
 
-        const opt = {
-            margin:       0.5,
-            filename:     'NutriDetector_Report.pdf',
-            image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 2, useCORS: true, windowWidth: element.scrollWidth, windowHeight: element.scrollHeight },
-            jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-        };
+            const opt = {
+                margin:       0.5,
+                filename:     'NutriDetector_Report.pdf',
+                image:        { type: 'jpeg', quality: 0.98 },
+                html2canvas:  { scale: 2, useCORS: true, scrollY: 0, scrollX: 0, windowWidth: document.documentElement.scrollWidth },
+                jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+            };
 
-        // Output PDF
-        html2pdf().set(opt).from(element).save();
-    });
+            // Give the DOM a moment to apply the display: block style
+            setTimeout(() => {
+                html2pdf().set(opt).from(element).save();
+            }, 100);
+        });
+    }
 
 });
