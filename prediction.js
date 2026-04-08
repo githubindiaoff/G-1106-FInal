@@ -1,5 +1,29 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+    // Gender/Condition logic
+    const genderSelect = document.getElementById('patient-gender');
+    const conditionSelect = document.getElementById('patient-condition');
+
+    if (genderSelect && conditionSelect) {
+        const togglePregnantOption = () => {
+            const isMale = genderSelect.value === 'M';
+            Array.from(conditionSelect.options).forEach(opt => {
+                if (opt.value === 'Pregnant') {
+                    opt.disabled = isMale;
+                    opt.hidden = isMale;
+                    opt.style.display = isMale ? 'none' : 'block';
+                    if (isMale && conditionSelect.value === 'Pregnant') {
+                        conditionSelect.value = 'Normal';
+                    }
+                }
+            });
+        };
+
+        genderSelect.addEventListener('change', togglePregnantOption);
+        // Initialize on load
+        togglePregnantOption();
+    }
+
     // Tab Logic
     const tabs = document.querySelectorAll('.input-tab');
     const panes = document.querySelectorAll('.input-pane');
@@ -59,6 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
     dropZone.addEventListener('drop', (e) => {
         const dt = e.dataTransfer;
         const files = dt.files;
+        fileInput.files = files; // Update the HTML5 file input with the dropped files
         handleFiles(files);
     });
 
@@ -114,6 +139,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     analyzeBtn.addEventListener('click', () => {
         // Validate inputs loosely
+        const userAge = document.getElementById('patient-age').value;
+        const userGender = document.getElementById('patient-gender').value;
+        const userCondition = document.getElementById('patient-condition').value;
+
+        if(!userAge) {
+            alert('Please enter the patient\'s age.');
+            return;
+        }
+
         const hasText = textArea.value.trim().length > 0;
         const hasFile = fileInput.files.length > 0;
 
@@ -133,6 +167,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Real API Call via fetch
         const formData = new FormData();
+        formData.append('age', userAge);
+        formData.append('gender', userGender);
+        formData.append('condition', userCondition);
         
         // Append depending on what's active
         const isTextActive = document.getElementById('text-input-pane').classList.contains('active');
@@ -142,13 +179,14 @@ document.addEventListener('DOMContentLoaded', () => {
             formData.append('file', fileInput.files[0]);
         }
 
-        fetch('http://localhost:8000/predict', {
+        fetch('/predict', {
             method: 'POST',
             body: formData
         })
-        .then(response => {
+        .then(async response => {
             if (!response.ok) {
-                throw new Error('Network response was not ok');
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.detail || 'Network response was not ok');
             }
             return response.json();
         })
@@ -167,7 +205,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .catch(error => {
             console.error('There was a problem with the fetch operation:', error);
-            alert("Error connecting to the backend. Ensure FastAPI is running on port 8000!");
+            alert("Backend Error: " + error.message);
             resetBtn.click(); // Reset UI if failed
         });
     });

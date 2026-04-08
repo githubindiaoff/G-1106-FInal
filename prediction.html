@@ -59,6 +59,34 @@
             
             <!-- SECTION 1: INPUT -->
             <section id="section-input" class="card active-section">
+                <!-- Patient Details -->
+                <div class="patient-details" style="margin-bottom: 2rem;">
+                    <h4 style="margin-bottom: 1rem; color: var(--text-dark); font-size: 1.1rem;">Patient Details (Required)</h4>
+                    <div class="row">
+                        <div class="input-group half">
+                            <label for="patient-age">Age</label>
+                            <input type="number" id="patient-age" placeholder="Age" min="1" max="150" required>
+                        </div>
+                        <div class="input-group half">
+                            <label for="patient-gender">Gender</label>
+                            <select id="patient-gender" required>
+                                <option value="M">Male</option>
+                                <option value="F">Female</option>
+                            </select>
+                        </div>
+                        <div class="input-group half">
+                            <label for="patient-condition">Condition</label>
+                            <select id="patient-condition" required>
+                                <option value="Normal">Normal</option>
+                                <option value="Athlete">Athlete</option>
+                                <option value="Pregnant">Pregnant</option>
+                                <option value="Smoker">Smoker</option>
+                                <option value="Chronic Inflammation">Chronic Inflammation</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Input Tabs -->
                 <div class="input-tabs">
                     <button class="tab-btn input-tab active" data-target="text-input-pane">Text Input</button>
@@ -117,7 +145,7 @@
                 
                 <div id="pdf-export-area">
                     <!-- Heading -->
-                    <div class="results-header">s
+                    <div class="results-header">
                         <h3>Predicted Nutrient Deficiency</h3>
                     </div>
 

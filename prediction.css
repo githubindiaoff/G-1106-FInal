@@ -1,3 +1,8 @@
+/* Override global flex body */
+body {
+  display: block;
+}
+
 /* Layout & Header */
 .app-header {
   background-color: var(--card-bg);

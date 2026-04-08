@@ -5,3 +5,5 @@ pytesseract
 Pillow
 transformers
 torch
+pdf2image
+scikit-learn
