@@ -59,6 +59,9 @@
             
             <!-- SECTION 1: INPUT -->
             <section id="section-input" class="card active-section">
+                <!-- Error Message Box -->
+                <div id="error-message-box" style="display: none; color: #dc2626; background-color: #fee2e2; border: 1px solid #f87171; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem; font-weight: 500; font-size: 0.95rem;"></div>
+
                 <!-- Patient Details -->
                 <div class="patient-details" style="margin-bottom: 2rem;">
                     <h4 style="margin-bottom: 1rem; color: var(--text-dark); font-size: 1.1rem;">Patient Details (Required)</h4>
@@ -188,7 +191,7 @@
                 <div class="results-footer">
                     <button id="reset-btn" class="secondary-btn">New Analysis</button>
                     <div class="export-actions">
-                        <button id="generate-report-btn" class="secondary-btn">Generate Detailed Report</button>
+                        <!-- <button id="generate-report-btn" class="secondary-btn">Generate Detailed Report</button> -->
                         <button id="download-pdf-btn" class="primary-btn">Download Report (PDF)</button>
                     </div>
                 </div>

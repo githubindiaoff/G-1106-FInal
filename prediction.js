@@ -138,6 +138,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const stepRes = document.getElementById('step-results');
 
     analyzeBtn.addEventListener('click', () => {
+        const errorBox = document.getElementById('error-message-box');
+        errorBox.style.display = 'none';
+        errorBox.textContent = '';
+
         // Validate inputs loosely
         const userAge = document.getElementById('patient-age').value;
         const userGender = document.getElementById('patient-gender').value;
@@ -186,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(async response => {
             if (!response.ok) {
                 const errorData = await response.json().catch(() => ({}));
-                throw new Error(errorData.detail || 'Network response was not ok');
+                throw new Error(errorData.error || errorData.detail || 'Network response was not ok');
             }
             return response.json();
         })
@@ -205,13 +209,30 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .catch(error => {
             console.error('There was a problem with the fetch operation:', error);
-            alert("Backend Error: " + error.message);
+            const errorBox = document.getElementById('error-message-box');
+            errorBox.textContent = error.message;
+            errorBox.style.display = 'block';
             resetBtn.click(); // Reset UI if failed
         });
     });
 
     resetBtn.addEventListener('click', () => {
-        // Reset everything
+        // Reset form inputs
+        document.getElementById('patient-age').value = '';
+        document.getElementById('patient-gender').value = 'M';
+        document.getElementById('patient-condition').value = 'Normal';
+        
+        // Refresh gender/condition toggles
+        const genderSelect = document.getElementById('patient-gender');
+        if (genderSelect) genderSelect.dispatchEvent(new Event('change'));
+
+        document.getElementById('clinical-notes').value = '';
+        document.getElementById('char-counter').textContent = '0 chars';
+        
+        // Remove file
+        document.getElementById('remove-file-btn').click();
+
+        // Reset everything else (view toggles)
         sectionResults.classList.remove('active-section');
         sectionResults.classList.add('hidden-section');
         
@@ -249,8 +270,18 @@ document.addEventListener('DOMContentLoaded', () => {
             const ref = references[nutrient];
 
             let statusClass = 'status-normal';
-            if (status.includes('Severe') || status.includes('Deficient') && !status.includes('Mild')) statusClass = 'status-severe';
-            else if (status.includes('Mild')) statusClass = 'status-mild';
+            let actionText = 'Maintain current intake';
+            
+            if (status.includes('Severe') || (status.includes('Deficient') && !status.includes('Mild') && !status.includes('Slight'))) {
+                statusClass = 'status-severe';
+                actionText = 'Visit a doctor immediately';
+            } else if (status.includes('Mild')) {
+                statusClass = 'status-mild';
+                actionText = 'Supplementation recommended';
+            } else if (status.includes('Slight')) {
+                statusClass = 'status-mild'; // Reusing mild CSS class for Slight
+                actionText = 'Switch to a diet high in this nutrient';
+            }
 
             const tr = document.createElement('tr');
             tr.innerHTML = `
@@ -261,14 +292,43 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td><strong>${val}</strong></td>
                 <td>${ref.range}</td>
                 <td><span class="status-badge ${statusClass}">${status}</span></td>
-                <td>${status === 'Normal' ? 'Maintain current intake' : 'Supplementation recommended'}</td>
+                <td>${actionText}</td>
             `;
             tbody.appendChild(tr);
         }
 
+        // Find the worst status
+        let worstStatus = "Normal";
+        let hasMild = false;
+        let hasSlight = false;
+        for (const status of Object.values(data.nutrient_status)) {
+            if (status.includes("Severe")) worstStatus = "Severe";
+            if (status.includes("Mild")) hasMild = true;
+            if (status.includes("Slight")) hasSlight = true;
+        }
+        if (worstStatus !== "Severe" && hasMild) worstStatus = "Mild";
+        if (worstStatus === "Normal" && hasSlight) worstStatus = "Slight";
+
         // Summary Text
-        document.getElementById('summary-text').textContent = `The patient's lab results indicate primarily a ${data.predicted_deficiency}. Critical markers for Vitamin D and Iron are significantly below the optimal ranges.`;
-        document.getElementById('recommendation-text').textContent = `Recommendation: Consult with your primary physician immediately regarding aggressive Vitamin D therapy and Iron supplementation. Re-test in 3 months.`;
+        let summaryTextObj = `The patient's lab results indicate primarily a ${data.predicted_deficiency}. `;
+        let recommendationTextObj = ``;
+
+        if (worstStatus === "Severe") {
+            summaryTextObj += "Critical markers are significantly below optimal ranges.";
+            recommendationTextObj = "Recommendation: Please consult a doctor or physician immediately for aggressive therapy.";
+        } else if (worstStatus === "Mild") {
+            summaryTextObj += "Some markers are mildly below optimal ranges.";
+            recommendationTextObj = "Recommendation: Medication or supplements are recommended. Please speak to a pharmacist.";
+        } else if (worstStatus === "Slight") {
+            summaryTextObj += "Some markers are slightly below optimal ranges.";
+            recommendationTextObj = "Recommendation: Switch to a diet high in these nutrients.";
+        } else {
+            summaryTextObj += "All markers are within optimal ranges.";
+            recommendationTextObj = "Recommendation: Values are normal. Maintain a healthy diet rich in these nutrients.";
+        }
+
+        document.getElementById('summary-text').textContent = summaryTextObj;
+        document.getElementById('recommendation-text').textContent = recommendationTextObj;
     };
 
     // UI Toggle for Detailed Report
@@ -287,11 +347,14 @@ document.addEventListener('DOMContentLoaded', () => {
     dlPdfBtn.addEventListener('click', () => {
         const element = document.getElementById('pdf-export-area');
         
+        // Ensure element is fully visible before export
+        element.style.display = 'block';
+
         const opt = {
             margin:       0.5,
             filename:     'NutriDetector_Report.pdf',
             image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 2 },
+            html2canvas:  { scale: 2, useCORS: true, windowWidth: element.scrollWidth, windowHeight: element.scrollHeight },
             jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
         };
 

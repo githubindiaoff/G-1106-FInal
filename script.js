@@ -77,8 +77,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (valid) {
-            // Assume API call succeeds
-            window.location.href = 'prediction.html';
+            fetch('/login', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ mobileNumber: mobile, password: pwd })
+            })
+            .then(res => res.json().then(data => ({ status: res.status, body: data })))
+            .then(result => {
+                if (result.status === 200) {
+                    window.location.href = 'prediction.html';
+                } else {
+                    alert(result.body.error || 'Invalid credentials');
+                }
+            })
+            .catch(err => alert('Error connecting to the backend. Is MongoDB running?'));
         }
     });
 
@@ -107,10 +119,22 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (valid) {
-            // Assume API call succeeds
-            alert('Successfully Registered account for NutriDetector!');
-            signUpForm.reset();
-            goSignIn();
+            fetch('/signup', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ mobileNumber: mobile, password: pwd })
+            })
+            .then(res => res.json().then(data => ({ status: res.status, body: data })))
+            .then(result => {
+                if (result.status === 200) {
+                    alert('Successfully Registered account for NutriDetector! Please login.');
+                    signUpForm.reset();
+                    goSignIn();
+                } else {
+                    alert(result.body.error || 'Error during registration');
+                }
+            })
+            .catch(err => alert('Error connecting to the backend. Is MongoDB running?'));
         }
     });
 });
