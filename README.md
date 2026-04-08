@@ -18,12 +18,7 @@ Your Python code hardcodes `tesseract.exe` to `C:\Program Files\Tesseract-OCR\te
 1. Download the Tesseract-OCR installer for Windows.
 2. Install it using the default path (`C:\Program Files\Tesseract-OCR`).
 
-### Step 4: Install Poppler (Optional but Recommended)
-If they want to upload PDFs (since `pdf2image` relies on it):
-1. Download Poppler for Windows.
-2. Add its `bin` folder to their system environment `PATH` variables.
-
-### Step 5: Run the App
+### Step 4: Run the App
 With MongoDB and Tesseract properly mapped, start the Flask server:
 ```bash
 python main.py
