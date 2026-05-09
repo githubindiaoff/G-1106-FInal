@@ -492,3 +492,8 @@ textarea:focus {
     width: 100%;
   }
 }
+
+/* Mode Toggle */
+.mode-tabs[data-active="prescription"] .tab-indicator {
+  transform: translateX(100%);
+}

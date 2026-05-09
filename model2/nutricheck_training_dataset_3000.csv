@@ -1,0 +1,2980 @@
+Age,Gender,Medication,Target_Deficiency
+0.3,Male,Ultra-D3 Drops,Vitamin D
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+4.1,Male,Calcium Carbonate Suspension,Calcium
+0.6,Female,D3 Oral Drops,Vitamin D
+1.2,Female,Calcimax P Suspension,Calcium
+89.4,Female,Hydroxocobalamin Injection,Vitamin B12
+26,Male,Ergocalciferol (D2),Vitamin D
+53.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.6,Female,D3 Oral Drops,Vitamin D
+37.2,Female,Ferrous Fumarate (322mg),Iron
+79.6,Female,B12 Nasal Spray,Vitamin B12
+25.7,Male,D3 2K IU Capsules,Vitamin D
+87.6,Male,Hydroxocobalamin Injection,Vitamin B12
+58.5,Female,Cyanocobalamin Tablets,Vitamin B12
+14.8,Female,Ferrous Fumarate (322mg),Iron
+30.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.1,Male,Calcium Carbonate Suspension,Calcium
+4,Female,Calcium Carbonate Suspension,Calcium
+0.5,Male,Ultra-D3 Drops,Vitamin D
+49.1,Male,Cyanocobalamin Tablets,Vitamin B12
+3.1,Female,Calcimax P Suspension,Calcium
+28.6,Male,Ergocalciferol (D2),Vitamin D
+40.7,Female,Ergocalciferol (D2),Vitamin D
+19.5,Female,Ferrous Fumarate (322mg),Iron
+0.7,Male,D3 Oral Drops,Vitamin D
+71.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+80,Male,Cyanocobalamin Tablets,Vitamin B12
+76.9,Male,High-dose Calcium Carbonate,Calcium
+51.9,Male,B12 Nasal Spray,Vitamin B12
+78.3,Male,Shelcal 500,Calcium
+57.6,Male,Calcium Citrate + Magnesium,Calcium
+0.8,Male,Ultra-D3 Drops,Vitamin D
+12.7,Female,D3 2K IU Capsules,Vitamin D
+56.2,Male,Calcium Citrate + Magnesium,Calcium
+1.7,Female,Iron Syrups,Iron
+83.5,Female,Shelcal 500,Calcium
+0.9,Female,Ultra-D3 Drops,Vitamin D
+31.5,Female,Ferrous Fumarate (322mg),Iron
+27.9,Female,D3 2K IU Capsules,Vitamin D
+0.1,Male,D3 Oral Drops,Vitamin D
+1.8,Male,Tonoferon Drops,Iron
+42.3,Female,Ergocalciferol (D2),Vitamin D
+35.9,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.7,Female,Iron Syrups,Iron
+86.4,Female,Shelcal 500,Calcium
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+48.2,Female,Ferrous Ascorbate Tablets,Iron
+4.8,Male,Ostocalcium B12 Syrup,Calcium
+44.9,Female,Ferrous Ascorbate Tablets,Iron
+41.9,Female,D3 2K IU Capsules,Vitamin D
+0.1,Male,D3 Oral Drops,Vitamin D
+0.2,Male,D3 Oral Drops,Vitamin D
+1,Female,Iron Syrups,Iron
+65.6,Male,Shelcal 500,Calcium
+38.6,Male,Cyanocobalamin Tablets,Vitamin B12
+0.6,Male,Ultra-D3 Drops,Vitamin D
+4.3,Female,Ostocalcium B12 Syrup,Calcium
+56.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+71.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+20.7,Female,Elemental Iron + Vit C,Iron
+59.2,Female,Hydroxocobalamin Injection,Vitamin B12
+39,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+48.1,Female,Ferrous Ascorbate Tablets,Iron
+53.7,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+67.5,Male,Hydroxocobalamin Injection,Vitamin B12
+4.9,Female,Ostocalcium B12 Syrup,Calcium
+1.8,Male,Calcimax P Suspension,Calcium
+63.8,Male,Cyanocobalamin Tablets,Vitamin B12
+0.5,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+4.8,Male,Calcimax P Suspension,Calcium
+17,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+67.4,Female,Cyanocobalamin Tablets,Vitamin B12
+1,Male,Ultra-D3 Drops,Vitamin D
+1.7,Female,Calcimax P Suspension,Calcium
+77.3,Male,Hydroxocobalamin Injection,Vitamin B12
+3.8,Female,Ostocalcium B12 Syrup,Calcium
+3.8,Male,Ostocalcium B12 Syrup,Calcium
+74,Male,High-dose Calcium Carbonate,Calcium
+72.3,Male,High-dose Calcium Carbonate,Calcium
+53.4,Female,Calcium Citrate + Magnesium,Calcium
+80.2,Female,Hydroxocobalamin Injection,Vitamin B12
+69.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+37.2,Female,B12 Nasal Spray,Vitamin B12
+3.2,Male,Ostocalcium B12 Syrup,Calcium
+0.6,Female,Iron Syrups,Iron
+20.7,Male,Ergocalciferol (D2),Vitamin D
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+40.5,Female,Elemental Iron + Vit C,Iron
+65.7,Male,High-dose Calcium Carbonate,Calcium
+34.9,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+50.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+73.6,Female,Cyanocobalamin Tablets,Vitamin B12
+63.7,Male,Hydroxocobalamin Injection,Vitamin B12
+61.9,Male,B12 Nasal Spray,Vitamin B12
+87.1,Male,Hydroxocobalamin Injection,Vitamin B12
+19.2,Female,Ferrous Ascorbate Tablets,Iron
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+66.8,Male,High-dose Calcium Carbonate,Calcium
+44.5,Female,Ergocalciferol (D2),Vitamin D
+73.9,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+3.2,Female,Calcimax P Suspension,Calcium
+71.4,Male,B12 Nasal Spray,Vitamin B12
+61.3,Female,Shelcal 500,Calcium
+48.1,Female,Ferrous Ascorbate Tablets,Iron
+34.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.5,Male,Iron Syrups,Iron
+1.6,Male,Tonoferon Drops,Iron
+56.8,Female,Hydroxocobalamin Injection,Vitamin B12
+29.8,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+73.5,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.2,Male,D3 Oral Drops,Vitamin D
+19.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+56,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+19.5,Male,Ergocalciferol (D2),Vitamin D
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+76.6,Female,Shelcal 500,Calcium
+0.8,Male,Ultra-D3 Drops,Vitamin D
+83.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+18.6,Female,D3 2K IU Capsules,Vitamin D
+71.9,Male,Cyanocobalamin Tablets,Vitamin B12
+78.7,Female,Calcium Citrate + Magnesium,Calcium
+69.3,Female,B12 Nasal Spray,Vitamin B12
+74.5,Female,Calcium Citrate + Magnesium,Calcium
+74.9,Male,High-dose Calcium Carbonate,Calcium
+54.6,Male,Shelcal 500,Calcium
+1.2,Female,Tonoferon Drops,Iron
+4.7,Male,Ostocalcium B12 Syrup,Calcium
+52.6,Male,High-dose Calcium Carbonate,Calcium
+21.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+4.9,Female,Calcium Carbonate Suspension,Calcium
+56.4,Male,High-dose Calcium Carbonate,Calcium
+14.9,Female,Ferrous Fumarate (322mg),Iron
+65.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+44.6,Female,Ferrous Ascorbate Tablets,Iron
+26.6,Female,D3 2K IU Capsules,Vitamin D
+55.2,Male,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,D3 Oral Drops,Vitamin D
+0.9,Male,Tonoferon Drops,Iron
+1.2,Female,Iron Syrups,Iron
+57.1,Male,Calcium Citrate + Magnesium,Calcium
+53.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+52.6,Male,Shelcal 500,Calcium
+27.8,Male,Cyanocobalamin Tablets,Vitamin B12
+1.5,Male,Calcium Carbonate Suspension,Calcium
+87,Male,Calcium Citrate + Magnesium,Calcium
+0.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+15.8,Female,Ferrous Fumarate (322mg),Iron
+47.1,Female,Ferrous Ascorbate Tablets,Iron
+70.4,Female,Shelcal 500,Calcium
+3.8,Female,Ostocalcium B12 Syrup,Calcium
+0.8,Male,D3 Oral Drops,Vitamin D
+1.1,Male,Calcium Carbonate Suspension,Calcium
+58.4,Female,Calcium Citrate + Magnesium,Calcium
+0.8,Male,Tonoferon Drops,Iron
+69.5,Male,B12 Nasal Spray,Vitamin B12
+68,Male,Hydroxocobalamin Injection,Vitamin B12
+4.5,Male,Ostocalcium B12 Syrup,Calcium
+64.5,Female,B12 Nasal Spray,Vitamin B12
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+42.6,Female,Ferrous Fumarate (322mg),Iron
+25.4,Male,D3 2K IU Capsules,Vitamin D
+55,Female,Ergocalciferol (D2),Vitamin D
+1.5,Male,Calcium Carbonate Suspension,Calcium
+21,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.5,Male,Iron Syrups,Iron
+25,Female,Elemental Iron + Vit C,Iron
+28.5,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+41.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.5,Male,Calcimax P Suspension,Calcium
+88.6,Female,Hydroxocobalamin Injection,Vitamin B12
+48.3,Female,Elemental Iron + Vit C,Iron
+89.3,Female,High-dose Calcium Carbonate,Calcium
+85.8,Female,High-dose Calcium Carbonate,Calcium
+3.1,Male,Calcium Carbonate Suspension,Calcium
+40.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+86.1,Female,Calcium Citrate + Magnesium,Calcium
+34.7,Male,B12 Nasal Spray,Vitamin B12
+1.9,Female,Tonoferon Drops,Iron
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+24.8,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+33.9,Female,Elemental Iron + Vit C,Iron
+1.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+3.6,Male,Calcium Carbonate Suspension,Calcium
+2.3,Female,Calcium Carbonate Suspension,Calcium
+40.7,Female,Elemental Iron + Vit C,Iron
+0.4,Male,Ultra-D3 Drops,Vitamin D
+1.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.6,Female,Ultra-D3 Drops,Vitamin D
+36.5,Female,Ferrous Fumarate (322mg),Iron
+31.7,Male,B12 Nasal Spray,Vitamin B12
+1.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+4.8,Male,Ostocalcium B12 Syrup,Calcium
+0.1,Male,Ultra-D3 Drops,Vitamin D
+43.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+3.9,Male,Calcimax P Suspension,Calcium
+28.2,Male,Cyanocobalamin Tablets,Vitamin B12
+20.4,Female,Cyanocobalamin Tablets,Vitamin B12
+26.8,Female,Ferrous Ascorbate Tablets,Iron
+0.5,Female,Tonoferon Drops,Iron
+70,Male,Calcium Citrate + Magnesium,Calcium
+1.1,Male,Iron Syrups,Iron
+31.5,Female,Ferrous Fumarate (322mg),Iron
+0.6,Female,Tonoferon Drops,Iron
+1,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.3,Male,Iron Syrups,Iron
+66.5,Female,Calcium Citrate + Magnesium,Calcium
+2,Male,Tonoferon Drops,Iron
+0.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.7,Male,D3 Oral Drops,Vitamin D
+41.9,Female,Elemental Iron + Vit C,Iron
+4.3,Female,Calcimax P Suspension,Calcium
+0.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+72,Male,Calcium Citrate + Magnesium,Calcium
+0.7,Female,Ultra-D3 Drops,Vitamin D
+0.2,Female,Ultra-D3 Drops,Vitamin D
+67.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+51.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+68.8,Male,Calcium Citrate + Magnesium,Calcium
+88.4,Female,High-dose Calcium Carbonate,Calcium
+85.6,Male,Calcium Citrate + Magnesium,Calcium
+56.8,Male,Hydroxocobalamin Injection,Vitamin B12
+35.3,Female,Ferrous Fumarate (322mg),Iron
+4.4,Female,Calcimax P Suspension,Calcium
+36,Female,Ferrous Ascorbate Tablets,Iron
+0.9,Female,D3 Oral Drops,Vitamin D
+26.4,Male,D3 2K IU Capsules,Vitamin D
+4.1,Male,Calcimax P Suspension,Calcium
+60.6,Male,Shelcal 500,Calcium
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+0.9,Female,Ultra-D3 Drops,Vitamin D
+1.8,Female,Calcium Carbonate Suspension,Calcium
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+4,Female,Calcimax P Suspension,Calcium
+36.9,Female,Ferrous Ascorbate Tablets,Iron
+0.1,Female,Ultra-D3 Drops,Vitamin D
+78.7,Female,Shelcal 500,Calcium
+27.7,Female,D3 2K IU Capsules,Vitamin D
+2,Female,Iron Syrups,Iron
+82.9,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+18.5,Male,Ergocalciferol (D2),Vitamin D
+0.7,Male,D3 Oral Drops,Vitamin D
+49.8,Female,Ergocalciferol (D2),Vitamin D
+26.8,Female,Ferrous Fumarate (322mg),Iron
+84.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+52.6,Female,Shelcal 500,Calcium
+0.5,Male,Tonoferon Drops,Iron
+1.2,Male,Ostocalcium B12 Syrup,Calcium
+24.5,Female,Elemental Iron + Vit C,Iron
+77,Male,High-dose Calcium Carbonate,Calcium
+1.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.5,Male,D3 Oral Drops,Vitamin D
+1.1,Male,Tonoferon Drops,Iron
+52.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+77.3,Male,High-dose Calcium Carbonate,Calcium
+60.5,Male,Shelcal 500,Calcium
+40.9,Female,Ergocalciferol (D2),Vitamin D
+12.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+66.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Male,Ultra-D3 Drops,Vitamin D
+2.2,Male,Calcium Carbonate Suspension,Calcium
+68.4,Male,High-dose Calcium Carbonate,Calcium
+0.6,Female,Ferrous Sulfate Pediatric Drops,Iron
+14.7,Female,Ergocalciferol (D2),Vitamin D
+55.1,Male,Hydroxocobalamin Injection,Vitamin B12
+28.1,Female,Ferrous Fumarate (322mg),Iron
+3.1,Female,Calcimax P Suspension,Calcium
+0.4,Male,D3 Oral Drops,Vitamin D
+1.3,Male,Ostocalcium B12 Syrup,Calcium
+60,Female,Calcium Citrate + Magnesium,Calcium
+4.6,Female,Calcimax P Suspension,Calcium
+70.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+42.7,Male,Ergocalciferol (D2),Vitamin D
+1,Female,Iron Syrups,Iron
+14.8,Male,D3 2K IU Capsules,Vitamin D
+15.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+71.6,Male,B12 Nasal Spray,Vitamin B12
+87,Female,Hydroxocobalamin Injection,Vitamin B12
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+2.6,Female,Calcium Carbonate Suspension,Calcium
+74,Female,Cyanocobalamin Tablets,Vitamin B12
+15.3,Female,Ferrous Ascorbate Tablets,Iron
+48.9,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+59.2,Female,Cyanocobalamin Tablets,Vitamin B12
+76.8,Female,Hydroxocobalamin Injection,Vitamin B12
+64.9,Male,Calcium Citrate + Magnesium,Calcium
+31.7,Female,Elemental Iron + Vit C,Iron
+60.1,Female,Cyanocobalamin Tablets,Vitamin B12
+67.9,Male,Hydroxocobalamin Injection,Vitamin B12
+36.1,Female,D3 2K IU Capsules,Vitamin D
+78.4,Male,Shelcal 500,Calcium
+23,Female,Ferrous Fumarate (322mg),Iron
+36.2,Male,Cyanocobalamin Tablets,Vitamin B12
+50.6,Male,Calcium Citrate + Magnesium,Calcium
+2.2,Male,Calcimax P Suspension,Calcium
+71.4,Female,Cyanocobalamin Tablets,Vitamin B12
+74,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+33.5,Female,Ergocalciferol (D2),Vitamin D
+59.2,Female,High-dose Calcium Carbonate,Calcium
+1.3,Female,Ferrous Sulfate Pediatric Drops,Iron
+68.1,Female,Cyanocobalamin Tablets,Vitamin B12
+68.9,Male,Calcium Citrate + Magnesium,Calcium
+83,Female,Hydroxocobalamin Injection,Vitamin B12
+70.9,Female,Cyanocobalamin Tablets,Vitamin B12
+14.8,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+2.3,Male,Ostocalcium B12 Syrup,Calcium
+29.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.6,Female,Calcium Carbonate Suspension,Calcium
+27.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.9,Female,Ultra-D3 Drops,Vitamin D
+77,Female,Shelcal 500,Calcium
+20.2,Female,B12 Nasal Spray,Vitamin B12
+75.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+59.7,Female,Cyanocobalamin Tablets,Vitamin B12
+61.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+0,Male,D3 Oral Drops,Vitamin D
+3.9,Male,Ostocalcium B12 Syrup,Calcium
+2,Male,Ferrous Sulfate Pediatric Drops,Iron
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+4.6,Male,Ostocalcium B12 Syrup,Calcium
+57,Female,Hydroxocobalamin Injection,Vitamin B12
+28.6,Female,B12 Nasal Spray,Vitamin B12
+38.8,Female,Elemental Iron + Vit C,Iron
+1.2,Female,Ostocalcium B12 Syrup,Calcium
+0.5,Male,Ultra-D3 Drops,Vitamin D
+51.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+86.6,Male,Hydroxocobalamin Injection,Vitamin B12
+49.9,Female,Elemental Iron + Vit C,Iron
+66.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.3,Female,Calcium Carbonate Suspension,Calcium
+26.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+78.6,Male,Calcium Citrate + Magnesium,Calcium
+47.5,Female,Ferrous Fumarate (322mg),Iron
+0.8,Female,Vitamin D3 Drops (400 IU),Vitamin D
+82.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1,Male,Iron Syrups,Iron
+37.5,Female,Elemental Iron + Vit C,Iron
+66.3,Male,High-dose Calcium Carbonate,Calcium
+61.7,Male,Hydroxocobalamin Injection,Vitamin B12
+2.3,Female,Calcimax P Suspension,Calcium
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.8,Female,Ultra-D3 Drops,Vitamin D
+61,Female,Calcium Citrate + Magnesium,Calcium
+1.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+83.9,Male,Calcium Citrate + Magnesium,Calcium
+19.2,Female,Ferrous Ascorbate Tablets,Iron
+0.9,Male,D3 Oral Drops,Vitamin D
+1.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+79.5,Male,Hydroxocobalamin Injection,Vitamin B12
+0.7,Male,Ultra-D3 Drops,Vitamin D
+4,Female,Calcimax P Suspension,Calcium
+59.3,Female,B12 Nasal Spray,Vitamin B12
+56.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+30.1,Female,Elemental Iron + Vit C,Iron
+0.5,Male,D3 Oral Drops,Vitamin D
+29.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+41.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+76.5,Female,Calcium Citrate + Magnesium,Calcium
+54,Male,D3 2K IU Capsules,Vitamin D
+50.9,Female,B12 Nasal Spray,Vitamin B12
+32.1,Female,Ferrous Fumarate (322mg),Iron
+2.3,Female,Calcimax P Suspension,Calcium
+0.8,Female,Ultra-D3 Drops,Vitamin D
+26,Female,Elemental Iron + Vit C,Iron
+81.1,Male,Calcium Citrate + Magnesium,Calcium
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+58.8,Male,D3 2K IU Capsules,Vitamin D
+4.7,Male,Calcium Carbonate Suspension,Calcium
+85.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+60.3,Female,High-dose Calcium Carbonate,Calcium
+72.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+25.2,Female,Ferrous Fumarate (322mg),Iron
+4.5,Female,Ostocalcium B12 Syrup,Calcium
+70,Female,High-dose Calcium Carbonate,Calcium
+34.5,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+70,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+39.7,Male,Cyanocobalamin Tablets,Vitamin B12
+71.5,Male,Calcium Citrate + Magnesium,Calcium
+23.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+50,Female,Calcium Citrate + Magnesium,Calcium
+3,Female,Calcium Carbonate Suspension,Calcium
+2.6,Female,Calcium Carbonate Suspension,Calcium
+56.8,Male,Calcium Citrate + Magnesium,Calcium
+35.8,Female,Ferrous Ascorbate Tablets,Iron
+21,Female,Ferrous Ascorbate Tablets,Iron
+27.7,Female,Cyanocobalamin Tablets,Vitamin B12
+44.8,Male,Ergocalciferol (D2),Vitamin D
+2.7,Male,Calcimax P Suspension,Calcium
+0.6,Female,Iron Syrups,Iron
+24.5,Female,Ferrous Ascorbate Tablets,Iron
+1.1,Male,Ferrous Sulfate Pediatric Drops,Iron
+4.3,Female,Ostocalcium B12 Syrup,Calcium
+58.1,Male,Cyanocobalamin Tablets,Vitamin B12
+55.3,Female,Hydroxocobalamin Injection,Vitamin B12
+66.9,Female,Calcium Citrate + Magnesium,Calcium
+56.7,Male,Hydroxocobalamin Injection,Vitamin B12
+21,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+56.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.6,Female,Vitamin D3 Drops (400 IU),Vitamin D
+3.9,Female,Calcium Carbonate Suspension,Calcium
+85.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+3.9,Male,Calcimax P Suspension,Calcium
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+75.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+50.4,Female,Shelcal 500,Calcium
+58,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+67.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+66.6,Female,High-dose Calcium Carbonate,Calcium
+0.6,Male,Iron Syrups,Iron
+1.3,Female,Calcimax P Suspension,Calcium
+28,Female,Ferrous Ascorbate Tablets,Iron
+38.4,Female,Elemental Iron + Vit C,Iron
+1.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+51.3,Male,Shelcal 500,Calcium
+59.9,Male,Ergocalciferol (D2),Vitamin D
+1.2,Female,Calcimax P Suspension,Calcium
+0.3,Male,Ultra-D3 Drops,Vitamin D
+52.4,Male,Shelcal 500,Calcium
+1.2,Male,Iron Syrups,Iron
+3.5,Male,Calcimax P Suspension,Calcium
+1.3,Male,Ferrous Sulfate Pediatric Drops,Iron
+18.4,Female,Elemental Iron + Vit C,Iron
+56.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+48.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+38.7,Female,Ferrous Ascorbate Tablets,Iron
+72.6,Female,High-dose Calcium Carbonate,Calcium
+18.9,Female,Ferrous Ascorbate Tablets,Iron
+54.4,Female,Cyanocobalamin Tablets,Vitamin B12
+36.1,Male,Ergocalciferol (D2),Vitamin D
+89,Male,Hydroxocobalamin Injection,Vitamin B12
+54.9,Female,Shelcal 500,Calcium
+0.9,Female,Tonoferon Drops,Iron
+19.4,Male,Ergocalciferol (D2),Vitamin D
+41.5,Female,Elemental Iron + Vit C,Iron
+39.9,Male,B12 Nasal Spray,Vitamin B12
+0.2,Male,D3 Oral Drops,Vitamin D
+37.6,Male,B12 Nasal Spray,Vitamin B12
+43.4,Female,Elemental Iron + Vit C,Iron
+40.1,Female,Ferrous Fumarate (322mg),Iron
+30.2,Female,Ferrous Fumarate (322mg),Iron
+43,Female,Ferrous Fumarate (322mg),Iron
+1.4,Female,Iron Syrups,Iron
+1.8,Male,Tonoferon Drops,Iron
+1.7,Male,Iron Syrups,Iron
+63.4,Male,Hydroxocobalamin Injection,Vitamin B12
+42,Female,Elemental Iron + Vit C,Iron
+15,Female,Ferrous Ascorbate Tablets,Iron
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.1,Female,D3 Oral Drops,Vitamin D
+75.7,Female,Shelcal 500,Calcium
+60.7,Male,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,Ultra-D3 Drops,Vitamin D
+0.9,Male,D3 Oral Drops,Vitamin D
+62.4,Male,Hydroxocobalamin Injection,Vitamin B12
+0.5,Male,D3 Oral Drops,Vitamin D
+79.9,Female,B12 Nasal Spray,Vitamin B12
+53.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+85,Male,Calcium Citrate + Magnesium,Calcium
+36.1,Male,Cyanocobalamin Tablets,Vitamin B12
+0.4,Male,Ultra-D3 Drops,Vitamin D
+67.8,Male,Shelcal 500,Calcium
+22.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.6,Male,Iron Syrups,Iron
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+42.6,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+15.7,Female,Elemental Iron + Vit C,Iron
+52.3,Female,D3 2K IU Capsules,Vitamin D
+59.9,Male,Cyanocobalamin Tablets,Vitamin B12
+19.5,Female,Elemental Iron + Vit C,Iron
+0.6,Male,Ultra-D3 Drops,Vitamin D
+51.2,Male,D3 2K IU Capsules,Vitamin D
+85.9,Male,Hydroxocobalamin Injection,Vitamin B12
+19.9,Female,Ergocalciferol (D2),Vitamin D
+32.1,Female,Ferrous Ascorbate Tablets,Iron
+62.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+53.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+71.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+17.9,Female,Ergocalciferol (D2),Vitamin D
+26.2,Female,Ferrous Fumarate (322mg),Iron
+0.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.7,Male,Iron Syrups,Iron
+4,Female,Calcimax P Suspension,Calcium
+47.6,Female,Ferrous Fumarate (322mg),Iron
+1.9,Female,Iron Syrups,Iron
+57.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+30,Female,Ferrous Fumarate (322mg),Iron
+21.2,Female,D3 2K IU Capsules,Vitamin D
+17.2,Female,Ferrous Ascorbate Tablets,Iron
+0.2,Female,Ultra-D3 Drops,Vitamin D
+4.3,Male,Ostocalcium B12 Syrup,Calcium
+65.5,Female,Hydroxocobalamin Injection,Vitamin B12
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.8,Male,Calcium Carbonate Suspension,Calcium
+79.5,Female,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,Tonoferon Drops,Iron
+65.8,Female,Hydroxocobalamin Injection,Vitamin B12
+40.1,Female,Elemental Iron + Vit C,Iron
+1,Male,Iron Syrups,Iron
+73.1,Female,Shelcal 500,Calcium
+88.4,Female,Shelcal 500,Calcium
+66.4,Female,Shelcal 500,Calcium
+20.1,Male,Ergocalciferol (D2),Vitamin D
+0.6,Female,Ultra-D3 Drops,Vitamin D
+22.1,Male,Ergocalciferol (D2),Vitamin D
+63.1,Male,Cyanocobalamin Tablets,Vitamin B12
+0.3,Female,Ultra-D3 Drops,Vitamin D
+69.4,Male,Calcium Citrate + Magnesium,Calcium
+0.6,Male,Vitamin D3 Drops (400 IU),Vitamin D
+46.6,Female,Ferrous Fumarate (322mg),Iron
+60.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+61.2,Male,Cyanocobalamin Tablets,Vitamin B12
+1,Female,Iron Syrups,Iron
+1.8,Male,Tonoferon Drops,Iron
+21.3,Female,Ferrous Ascorbate Tablets,Iron
+85.2,Male,High-dose Calcium Carbonate,Calcium
+16.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+29,Female,Cyanocobalamin Tablets,Vitamin B12
+1,Male,Iron Syrups,Iron
+0.5,Female,Tonoferon Drops,Iron
+0.8,Female,Tonoferon Drops,Iron
+29.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+35,Female,Ferrous Ascorbate Tablets,Iron
+62.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+56,Male,Hydroxocobalamin Injection,Vitamin B12
+56.2,Male,D3 2K IU Capsules,Vitamin D
+79.4,Male,High-dose Calcium Carbonate,Calcium
+86.7,Female,Hydroxocobalamin Injection,Vitamin B12
+1.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+36.8,Female,Elemental Iron + Vit C,Iron
+55.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+35.1,Female,Elemental Iron + Vit C,Iron
+72.7,Male,Calcium Citrate + Magnesium,Calcium
+1.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+41.9,Male,Cyanocobalamin Tablets,Vitamin B12
+62.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+45.8,Female,Ferrous Fumarate (322mg),Iron
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+53.3,Male,Shelcal 500,Calcium
+0.5,Male,Ultra-D3 Drops,Vitamin D
+74.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+12.9,Female,Elemental Iron + Vit C,Iron
+1.3,Male,Calcimax P Suspension,Calcium
+80.2,Male,Shelcal 500,Calcium
+81.9,Male,Shelcal 500,Calcium
+65.2,Female,Calcium Citrate + Magnesium,Calcium
+1.8,Female,Calcium Carbonate Suspension,Calcium
+4.4,Male,Calcium Carbonate Suspension,Calcium
+0.6,Male,Ultra-D3 Drops,Vitamin D
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+36.3,Male,Ergocalciferol (D2),Vitamin D
+17.8,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+69.2,Female,Shelcal 500,Calcium
+0.5,Male,Vitamin D3 Drops (400 IU),Vitamin D
+21.4,Male,Cyanocobalamin Tablets,Vitamin B12
+0.7,Female,D3 Oral Drops,Vitamin D
+79.7,Male,High-dose Calcium Carbonate,Calcium
+0.7,Female,Iron Syrups,Iron
+22.8,Female,Ferrous Ascorbate Tablets,Iron
+59.1,Female,High-dose Calcium Carbonate,Calcium
+0.7,Male,Ultra-D3 Drops,Vitamin D
+27.3,Female,Ferrous Fumarate (322mg),Iron
+76,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+24.9,Female,D3 2K IU Capsules,Vitamin D
+88.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+26,Female,Ferrous Ascorbate Tablets,Iron
+39.4,Female,Elemental Iron + Vit C,Iron
+50.2,Male,Calcium Citrate + Magnesium,Calcium
+1.7,Female,Calcimax P Suspension,Calcium
+48.4,Female,Ferrous Ascorbate Tablets,Iron
+33.9,Male,Cyanocobalamin Tablets,Vitamin B12
+39.4,Female,Ferrous Ascorbate Tablets,Iron
+0.7,Male,Vitamin D3 Drops (400 IU),Vitamin D
+71.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+61.1,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+56.8,Female,Ergocalciferol (D2),Vitamin D
+30.5,Female,B12 Nasal Spray,Vitamin B12
+83.8,Male,Shelcal 500,Calcium
+4.3,Female,Ostocalcium B12 Syrup,Calcium
+47.5,Female,Ferrous Ascorbate Tablets,Iron
+43.5,Male,B12 Nasal Spray,Vitamin B12
+19.8,Female,Elemental Iron + Vit C,Iron
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+12.5,Female,Ferrous Fumarate (322mg),Iron
+75.2,Male,Hydroxocobalamin Injection,Vitamin B12
+77.1,Male,Hydroxocobalamin Injection,Vitamin B12
+67.4,Male,Hydroxocobalamin Injection,Vitamin B12
+58,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+60,Male,Hydroxocobalamin Injection,Vitamin B12
+77.5,Female,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,D3 Oral Drops,Vitamin D
+71.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0,Male,D3 Oral Drops,Vitamin D
+3.7,Male,Calcium Carbonate Suspension,Calcium
+28.4,Male,Ergocalciferol (D2),Vitamin D
+24.1,Male,Ergocalciferol (D2),Vitamin D
+63,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+70.4,Female,B12 Nasal Spray,Vitamin B12
+28.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+88.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Female,Vitamin D3 Drops (400 IU),Vitamin D
+62.7,Female,High-dose Calcium Carbonate,Calcium
+1.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+3.1,Female,Calcimax P Suspension,Calcium
+3.3,Male,Ostocalcium B12 Syrup,Calcium
+48.8,Female,Ferrous Fumarate (322mg),Iron
+1.1,Female,Tonoferon Drops,Iron
+79.3,Male,High-dose Calcium Carbonate,Calcium
+4.5,Male,Calcimax P Suspension,Calcium
+79.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.5,Male,Calcium Citrate + Magnesium,Calcium
+56.6,Female,Ergocalciferol (D2),Vitamin D
+63.6,Male,Hydroxocobalamin Injection,Vitamin B12
+77.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+38.2,Female,Ergocalciferol (D2),Vitamin D
+54.4,Female,Ergocalciferol (D2),Vitamin D
+28.8,Male,Ergocalciferol (D2),Vitamin D
+85.1,Female,Hydroxocobalamin Injection,Vitamin B12
+66.2,Male,Calcium Citrate + Magnesium,Calcium
+2.6,Male,Calcimax P Suspension,Calcium
+1.7,Female,Tonoferon Drops,Iron
+33.9,Female,Ergocalciferol (D2),Vitamin D
+0.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+19,Female,Elemental Iron + Vit C,Iron
+3.5,Male,Ostocalcium B12 Syrup,Calcium
+4.1,Female,Calcimax P Suspension,Calcium
+49.6,Female,Ferrous Fumarate (322mg),Iron
+2,Female,Iron Syrups,Iron
+14.4,Male,Ergocalciferol (D2),Vitamin D
+0.6,Male,Iron Syrups,Iron
+83.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.9,Male,Calcimax P Suspension,Calcium
+26.2,Male,Ergocalciferol (D2),Vitamin D
+1,Female,Tonoferon Drops,Iron
+71.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+34.5,Male,B12 Nasal Spray,Vitamin B12
+1,Male,D3 Oral Drops,Vitamin D
+60.1,Male,Hydroxocobalamin Injection,Vitamin B12
+0.6,Female,Vitamin D3 Drops (400 IU),Vitamin D
+3.6,Female,Calcium Carbonate Suspension,Calcium
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+83.3,Female,High-dose Calcium Carbonate,Calcium
+67.4,Female,Cyanocobalamin Tablets,Vitamin B12
+64.7,Male,Calcium Citrate + Magnesium,Calcium
+53.1,Male,Shelcal 500,Calcium
+1,Male,Tonoferon Drops,Iron
+26.6,Female,Ferrous Fumarate (322mg),Iron
+19.5,Male,B12 Nasal Spray,Vitamin B12
+22.1,Female,Ferrous Ascorbate Tablets,Iron
+38.4,Female,D3 2K IU Capsules,Vitamin D
+50.6,Female,Calcium Citrate + Magnesium,Calcium
+16,Female,Ferrous Ascorbate Tablets,Iron
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+59.5,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+26.7,Male,B12 Nasal Spray,Vitamin B12
+1.3,Male,Iron Syrups,Iron
+5,Male,Calcium Carbonate Suspension,Calcium
+58.6,Female,D3 2K IU Capsules,Vitamin D
+16.4,Female,Ferrous Fumarate (322mg),Iron
+0.3,Male,D3 Oral Drops,Vitamin D
+44.4,Female,Elemental Iron + Vit C,Iron
+48,Female,Elemental Iron + Vit C,Iron
+1.9,Female,Calcium Carbonate Suspension,Calcium
+0.8,Male,D3 Oral Drops,Vitamin D
+23.8,Female,Ferrous Ascorbate Tablets,Iron
+72.9,Male,Hydroxocobalamin Injection,Vitamin B12
+62.7,Male,Cyanocobalamin Tablets,Vitamin B12
+34.6,Male,D3 2K IU Capsules,Vitamin D
+31.2,Male,Ergocalciferol (D2),Vitamin D
+0.9,Female,Ultra-D3 Drops,Vitamin D
+0.3,Male,D3 Oral Drops,Vitamin D
+1.1,Female,Ferrous Sulfate Pediatric Drops,Iron
+71.9,Male,Shelcal 500,Calcium
+79.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1,Female,Ultra-D3 Drops,Vitamin D
+57.7,Male,Calcium Citrate + Magnesium,Calcium
+47.6,Female,Elemental Iron + Vit C,Iron
+79.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+66.1,Female,High-dose Calcium Carbonate,Calcium
+70.3,Female,Hydroxocobalamin Injection,Vitamin B12
+1.9,Female,Calcimax P Suspension,Calcium
+0.6,Male,Ultra-D3 Drops,Vitamin D
+1.8,Female,Tonoferon Drops,Iron
+26,Female,Ferrous Ascorbate Tablets,Iron
+0.1,Female,Ultra-D3 Drops,Vitamin D
+0.8,Female,Vitamin D3 Drops (400 IU),Vitamin D
+35.3,Male,D3 2K IU Capsules,Vitamin D
+0.6,Female,Ferrous Sulfate Pediatric Drops,Iron
+47.5,Female,Ferrous Ascorbate Tablets,Iron
+1.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.6,Female,Iron Syrups,Iron
+23.2,Female,Cyanocobalamin Tablets,Vitamin B12
+47.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0,Male,D3 Oral Drops,Vitamin D
+69,Male,Shelcal 500,Calcium
+0.1,Female,Ultra-D3 Drops,Vitamin D
+1.7,Male,Tonoferon Drops,Iron
+0.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.2,Female,D3 Oral Drops,Vitamin D
+56.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1,Male,Tonoferon Drops,Iron
+22.6,Female,Cyanocobalamin Tablets,Vitamin B12
+1.3,Male,Iron Syrups,Iron
+1.9,Female,Tonoferon Drops,Iron
+16.3,Female,Ferrous Ascorbate Tablets,Iron
+1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+76.7,Female,Shelcal 500,Calcium
+54.4,Female,Shelcal 500,Calcium
+42.4,Female,Elemental Iron + Vit C,Iron
+42.5,Female,Elemental Iron + Vit C,Iron
+25,Female,Elemental Iron + Vit C,Iron
+41.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+85.6,Male,Shelcal 500,Calcium
+49.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+2.4,Female,Ostocalcium B12 Syrup,Calcium
+2.9,Female,Ostocalcium B12 Syrup,Calcium
+2.1,Male,Calcium Carbonate Suspension,Calcium
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+36.9,Female,Ferrous Ascorbate Tablets,Iron
+0.6,Male,Iron Syrups,Iron
+26.4,Female,Ferrous Ascorbate Tablets,Iron
+78.1,Female,Hydroxocobalamin Injection,Vitamin B12
+69.8,Male,Hydroxocobalamin Injection,Vitamin B12
+18.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1,Female,Iron Syrups,Iron
+0.4,Female,Ultra-D3 Drops,Vitamin D
+37.9,Female,Ferrous Ascorbate Tablets,Iron
+0.8,Female,Tonoferon Drops,Iron
+49,Female,Elemental Iron + Vit C,Iron
+1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.2,Male,Tonoferon Drops,Iron
+0.1,Male,D3 Oral Drops,Vitamin D
+0.1,Female,Ultra-D3 Drops,Vitamin D
+18.8,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.8,Male,Calcium Carbonate Suspension,Calcium
+62.6,Male,Shelcal 500,Calcium
+50,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+62.3,Female,Hydroxocobalamin Injection,Vitamin B12
+54.6,Female,D3 2K IU Capsules,Vitamin D
+0.8,Male,Iron Syrups,Iron
+1,Male,Calcium Carbonate Suspension,Calcium
+38,Female,Cyanocobalamin Tablets,Vitamin B12
+58.8,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.3,Female,Tonoferon Drops,Iron
+40.4,Female,Ferrous Ascorbate Tablets,Iron
+51.8,Female,Ergocalciferol (D2),Vitamin D
+74.5,Male,Shelcal 500,Calcium
+19.5,Female,Ferrous Fumarate (322mg),Iron
+75.1,Male,B12 Nasal Spray,Vitamin B12
+35.3,Female,B12 Nasal Spray,Vitamin B12
+43.6,Female,Ferrous Ascorbate Tablets,Iron
+35.7,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+70.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+59.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+72.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+45.9,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.5,Female,Vitamin D3 Drops (400 IU),Vitamin D
+35.4,Female,Ferrous Ascorbate Tablets,Iron
+23.6,Female,Ferrous Ascorbate Tablets,Iron
+73.1,Female,Calcium Citrate + Magnesium,Calcium
+67.5,Female,High-dose Calcium Carbonate,Calcium
+0.9,Male,Iron Syrups,Iron
+31.9,Female,Ferrous Fumarate (322mg),Iron
+46.5,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+25.4,Female,Elemental Iron + Vit C,Iron
+82.1,Male,High-dose Calcium Carbonate,Calcium
+60.5,Male,High-dose Calcium Carbonate,Calcium
+63.1,Male,High-dose Calcium Carbonate,Calcium
+1.6,Male,Iron Syrups,Iron
+47.7,Female,D3 2K IU Capsules,Vitamin D
+36.1,Male,B12 Nasal Spray,Vitamin B12
+78.7,Female,High-dose Calcium Carbonate,Calcium
+26.4,Female,Elemental Iron + Vit C,Iron
+1.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+16.7,Female,Elemental Iron + Vit C,Iron
+67.2,Female,Shelcal 500,Calcium
+21.9,Female,D3 2K IU Capsules,Vitamin D
+66.4,Female,B12 Nasal Spray,Vitamin B12
+0.7,Male,D3 Oral Drops,Vitamin D
+2,Female,Iron Syrups,Iron
+73,Male,High-dose Calcium Carbonate,Calcium
+78.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+62.1,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.1,Male,Calcium Carbonate Suspension,Calcium
+0.3,Male,D3 Oral Drops,Vitamin D
+51.4,Male,Ergocalciferol (D2),Vitamin D
+0.6,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1,Male,Tonoferon Drops,Iron
+80.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+64.3,Male,High-dose Calcium Carbonate,Calcium
+42.9,Male,D3 2K IU Capsules,Vitamin D
+0.7,Female,Iron Syrups,Iron
+0.4,Male,D3 Oral Drops,Vitamin D
+48.8,Female,Ferrous Ascorbate Tablets,Iron
+60.7,Male,Hydroxocobalamin Injection,Vitamin B12
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+44.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+3.7,Male,Calcimax P Suspension,Calcium
+0.6,Female,Ultra-D3 Drops,Vitamin D
+39,Male,Cyanocobalamin Tablets,Vitamin B12
+14.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+35.5,Female,Elemental Iron + Vit C,Iron
+33.1,Female,D3 2K IU Capsules,Vitamin D
+24.5,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.4,Male,Ultra-D3 Drops,Vitamin D
+34.9,Female,Elemental Iron + Vit C,Iron
+1.9,Male,Tonoferon Drops,Iron
+47,Female,Elemental Iron + Vit C,Iron
+66.6,Male,Hydroxocobalamin Injection,Vitamin B12
+48.9,Male,Cyanocobalamin Tablets,Vitamin B12
+74,Male,Calcium Citrate + Magnesium,Calcium
+72.5,Female,High-dose Calcium Carbonate,Calcium
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+1.3,Male,Calcium Carbonate Suspension,Calcium
+54,Female,Calcium Citrate + Magnesium,Calcium
+21.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.7,Male,Iron Syrups,Iron
+2.8,Female,Calcimax P Suspension,Calcium
+0.7,Female,Tonoferon Drops,Iron
+0.6,Female,Vitamin D3 Drops (400 IU),Vitamin D
+36.8,Female,D3 2K IU Capsules,Vitamin D
+20.5,Male,Ergocalciferol (D2),Vitamin D
+0.2,Male,D3 Oral Drops,Vitamin D
+1.2,Female,Tonoferon Drops,Iron
+48.7,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.3,Female,Ultra-D3 Drops,Vitamin D
+3.9,Male,Calcium Carbonate Suspension,Calcium
+79.7,Male,Calcium Citrate + Magnesium,Calcium
+55.6,Male,Shelcal 500,Calcium
+15.8,Female,Ferrous Fumarate (322mg),Iron
+81.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.8,Male,Calcium Carbonate Suspension,Calcium
+81,Male,Shelcal 500,Calcium
+64.9,Male,Shelcal 500,Calcium
+1.1,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.1,Female,Ultra-D3 Drops,Vitamin D
+74.7,Male,Shelcal 500,Calcium
+49.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+29.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.2,Male,Calcium Carbonate Suspension,Calcium
+63.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+55.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+68.8,Male,Shelcal 500,Calcium
+47.9,Female,Ferrous Fumarate (322mg),Iron
+22.9,Female,Elemental Iron + Vit C,Iron
+1.2,Male,Calcimax P Suspension,Calcium
+74.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+3.6,Female,Calcium Carbonate Suspension,Calcium
+78.1,Female,Hydroxocobalamin Injection,Vitamin B12
+3.5,Female,Ostocalcium B12 Syrup,Calcium
+32,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+75.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+30.8,Female,Ferrous Fumarate (322mg),Iron
+41.9,Male,Ergocalciferol (D2),Vitamin D
+0.6,Male,Iron Syrups,Iron
+38.6,Female,Ferrous Ascorbate Tablets,Iron
+22,Female,Elemental Iron + Vit C,Iron
+36,Female,Ferrous Fumarate (322mg),Iron
+53.2,Male,Calcium Citrate + Magnesium,Calcium
+60.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+16.5,Male,Ergocalciferol (D2),Vitamin D
+40.6,Female,Ferrous Fumarate (322mg),Iron
+1,Male,Iron Syrups,Iron
+12.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+65.7,Male,Calcium Citrate + Magnesium,Calcium
+37.8,Female,Ferrous Fumarate (322mg),Iron
+2.5,Male,Ostocalcium B12 Syrup,Calcium
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+89.7,Female,High-dose Calcium Carbonate,Calcium
+40.4,Female,Elemental Iron + Vit C,Iron
+4.1,Female,Calcimax P Suspension,Calcium
+43.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+30.7,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+75.7,Male,Calcium Citrate + Magnesium,Calcium
+66.5,Male,B12 Nasal Spray,Vitamin B12
+27.6,Female,Elemental Iron + Vit C,Iron
+48.7,Female,D3 2K IU Capsules,Vitamin D
+71.5,Female,Calcium Citrate + Magnesium,Calcium
+57.8,Male,Shelcal 500,Calcium
+72.7,Male,Hydroxocobalamin Injection,Vitamin B12
+71.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+48.1,Male,D3 2K IU Capsules,Vitamin D
+51.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+30,Male,Ergocalciferol (D2),Vitamin D
+0,Male,Ultra-D3 Drops,Vitamin D
+0.7,Male,Iron Syrups,Iron
+1.4,Male,Tonoferon Drops,Iron
+4.5,Female,Calcium Carbonate Suspension,Calcium
+52.3,Female,Cyanocobalamin Tablets,Vitamin B12
+17,Female,Elemental Iron + Vit C,Iron
+45.3,Male,Ergocalciferol (D2),Vitamin D
+0.6,Female,D3 Oral Drops,Vitamin D
+1,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+49,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+66.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.6,Male,Ostocalcium B12 Syrup,Calcium
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+66.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+13.5,Female,Ferrous Ascorbate Tablets,Iron
+67.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+54.9,Male,Cyanocobalamin Tablets,Vitamin B12
+0.3,Female,Vitamin D3 Drops (400 IU),Vitamin D
+60.7,Female,B12 Nasal Spray,Vitamin B12
+36.2,Female,D3 2K IU Capsules,Vitamin D
+48.1,Female,Ferrous Ascorbate Tablets,Iron
+2.9,Male,Ostocalcium B12 Syrup,Calcium
+57.4,Male,Hydroxocobalamin Injection,Vitamin B12
+30.1,Female,B12 Nasal Spray,Vitamin B12
+21.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.1,Female,Tonoferon Drops,Iron
+80.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.4,Male,Iron Syrups,Iron
+36.1,Male,Ergocalciferol (D2),Vitamin D
+58.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+57.2,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.9,Female,Iron Syrups,Iron
+85.8,Male,High-dose Calcium Carbonate,Calcium
+71.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+42.5,Male,D3 2K IU Capsules,Vitamin D
+20.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+3.9,Female,Ostocalcium B12 Syrup,Calcium
+0.7,Female,D3 Oral Drops,Vitamin D
+0.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.1,Male,Ultra-D3 Drops,Vitamin D
+1,Male,Tonoferon Drops,Iron
+3.5,Male,Ostocalcium B12 Syrup,Calcium
+56.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+88.1,Male,High-dose Calcium Carbonate,Calcium
+0.4,Female,Vitamin D3 Drops (400 IU),Vitamin D
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.9,Female,Iron Syrups,Iron
+19.9,Female,Cyanocobalamin Tablets,Vitamin B12
+40.5,Female,Elemental Iron + Vit C,Iron
+0.8,Male,D3 Oral Drops,Vitamin D
+4.3,Female,Calcium Carbonate Suspension,Calcium
+80.1,Male,High-dose Calcium Carbonate,Calcium
+81.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+16,Female,Ferrous Fumarate (322mg),Iron
+70.9,Male,Hydroxocobalamin Injection,Vitamin B12
+31.9,Female,Elemental Iron + Vit C,Iron
+15.9,Female,Elemental Iron + Vit C,Iron
+56.8,Male,Calcium Citrate + Magnesium,Calcium
+0.5,Female,Vitamin D3 Drops (400 IU),Vitamin D
+59,Male,Calcium Citrate + Magnesium,Calcium
+0.6,Male,Ultra-D3 Drops,Vitamin D
+37.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+53.8,Female,Ergocalciferol (D2),Vitamin D
+0.6,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.4,Female,Vitamin D3 Drops (400 IU),Vitamin D
+73.4,Female,Shelcal 500,Calcium
+43.1,Female,Ferrous Ascorbate Tablets,Iron
+0.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+13.3,Female,Ferrous Fumarate (322mg),Iron
+22.5,Female,D3 2K IU Capsules,Vitamin D
+60.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+20.9,Male,Ergocalciferol (D2),Vitamin D
+89.6,Female,Hydroxocobalamin Injection,Vitamin B12
+0.6,Male,D3 Oral Drops,Vitamin D
+27,Female,Elemental Iron + Vit C,Iron
+0.9,Male,Iron Syrups,Iron
+82.5,Male,High-dose Calcium Carbonate,Calcium
+48.4,Female,Elemental Iron + Vit C,Iron
+1.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+80.3,Male,Hydroxocobalamin Injection,Vitamin B12
+0.4,Female,Ultra-D3 Drops,Vitamin D
+4.3,Male,Ostocalcium B12 Syrup,Calcium
+46.2,Female,Ferrous Ascorbate Tablets,Iron
+36.4,Male,B12 Nasal Spray,Vitamin B12
+38.6,Female,Cyanocobalamin Tablets,Vitamin B12
+83.2,Male,Hydroxocobalamin Injection,Vitamin B12
+4.5,Female,Calcimax P Suspension,Calcium
+12.3,Female,Elemental Iron + Vit C,Iron
+68.8,Male,Hydroxocobalamin Injection,Vitamin B12
+0.4,Male,D3 Oral Drops,Vitamin D
+42,Female,B12 Nasal Spray,Vitamin B12
+61.5,Female,Cyanocobalamin Tablets,Vitamin B12
+40.4,Female,Ferrous Fumarate (322mg),Iron
+1.8,Female,Iron Syrups,Iron
+59.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.8,Female,Ultra-D3 Drops,Vitamin D
+1.5,Female,Ostocalcium B12 Syrup,Calcium
+3.2,Female,Calcium Carbonate Suspension,Calcium
+0.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+20.3,Female,Ferrous Ascorbate Tablets,Iron
+1.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+27.1,Female,B12 Nasal Spray,Vitamin B12
+50.3,Female,Ergocalciferol (D2),Vitamin D
+35.7,Male,B12 Nasal Spray,Vitamin B12
+29.2,Female,Elemental Iron + Vit C,Iron
+3.5,Female,Calcium Carbonate Suspension,Calcium
+70.7,Female,Shelcal 500,Calcium
+30.4,Female,Ferrous Fumarate (322mg),Iron
+56.3,Male,Hydroxocobalamin Injection,Vitamin B12
+1.3,Male,Calcium Carbonate Suspension,Calcium
+86.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.5,Male,Tonoferon Drops,Iron
+55.1,Female,Calcium Citrate + Magnesium,Calcium
+62.4,Male,Calcium Citrate + Magnesium,Calcium
+62.3,Female,Hydroxocobalamin Injection,Vitamin B12
+22.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.1,Male,Tonoferon Drops,Iron
+4.9,Male,Ostocalcium B12 Syrup,Calcium
+36.3,Female,Ferrous Ascorbate Tablets,Iron
+0.8,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.4,Female,Calcimax P Suspension,Calcium
+17.4,Female,Elemental Iron + Vit C,Iron
+3.6,Male,Calcimax P Suspension,Calcium
+89.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.6,Female,D3 Oral Drops,Vitamin D
+15,Female,Ferrous Fumarate (322mg),Iron
+2,Female,Ostocalcium B12 Syrup,Calcium
+30.8,Female,Elemental Iron + Vit C,Iron
+0.9,Male,Ultra-D3 Drops,Vitamin D
+0.8,Female,D3 Oral Drops,Vitamin D
+78.7,Female,B12 Nasal Spray,Vitamin B12
+52.5,Male,B12 Nasal Spray,Vitamin B12
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+61.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+22.2,Female,Ferrous Fumarate (322mg),Iron
+82.5,Female,Hydroxocobalamin Injection,Vitamin B12
+1.6,Female,Ostocalcium B12 Syrup,Calcium
+0.4,Male,D3 Oral Drops,Vitamin D
+28.2,Female,Ferrous Ascorbate Tablets,Iron
+1.3,Male,Calcimax P Suspension,Calcium
+33,Female,Elemental Iron + Vit C,Iron
+89.8,Male,High-dose Calcium Carbonate,Calcium
+1.8,Female,Tonoferon Drops,Iron
+15.9,Female,D3 2K IU Capsules,Vitamin D
+1.8,Male,Iron Syrups,Iron
+19.9,Female,Cyanocobalamin Tablets,Vitamin B12
+0.1,Female,Ultra-D3 Drops,Vitamin D
+2,Female,Calcium Carbonate Suspension,Calcium
+71.4,Female,Hydroxocobalamin Injection,Vitamin B12
+1,Male,Iron Syrups,Iron
+78.4,Female,Cyanocobalamin Tablets,Vitamin B12
+16.2,Female,Ferrous Fumarate (322mg),Iron
+35.2,Male,B12 Nasal Spray,Vitamin B12
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+41.8,Female,Ferrous Fumarate (322mg),Iron
+29,Male,Cyanocobalamin Tablets,Vitamin B12
+0.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+3.1,Female,Calcium Carbonate Suspension,Calcium
+58.5,Female,B12 Nasal Spray,Vitamin B12
+0.8,Male,Ultra-D3 Drops,Vitamin D
+4.7,Female,Ostocalcium B12 Syrup,Calcium
+60,Female,Shelcal 500,Calcium
+64.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+67.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Female,Ultra-D3 Drops,Vitamin D
+40.9,Female,Ferrous Fumarate (322mg),Iron
+85.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.2,Female,Calcium Carbonate Suspension,Calcium
+0.6,Male,D3 Oral Drops,Vitamin D
+63.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.6,Female,D3 Oral Drops,Vitamin D
+42.2,Female,Ferrous Ascorbate Tablets,Iron
+4.9,Male,Calcium Carbonate Suspension,Calcium
+42.3,Female,Elemental Iron + Vit C,Iron
+64.3,Male,Calcium Citrate + Magnesium,Calcium
+31.7,Female,Elemental Iron + Vit C,Iron
+74,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+82.5,Male,Calcium Citrate + Magnesium,Calcium
+51.3,Male,Cyanocobalamin Tablets,Vitamin B12
+58.1,Male,Ergocalciferol (D2),Vitamin D
+4.1,Male,Calcium Carbonate Suspension,Calcium
+0.9,Male,D3 Oral Drops,Vitamin D
+30.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+3.9,Female,Calcimax P Suspension,Calcium
+0.1,Female,Ultra-D3 Drops,Vitamin D
+73.1,Male,Shelcal 500,Calcium
+48.3,Male,Ergocalciferol (D2),Vitamin D
+0.8,Male,D3 Oral Drops,Vitamin D
+40.7,Male,B12 Nasal Spray,Vitamin B12
+1.4,Male,Iron Syrups,Iron
+77.2,Female,Hydroxocobalamin Injection,Vitamin B12
+4.9,Male,Ostocalcium B12 Syrup,Calcium
+26.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.1,Female,Iron Syrups,Iron
+64.2,Female,High-dose Calcium Carbonate,Calcium
+0.6,Female,Tonoferon Drops,Iron
+59.7,Female,High-dose Calcium Carbonate,Calcium
+13.6,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+41.2,Female,Elemental Iron + Vit C,Iron
+19.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+74.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+21.6,Female,Ferrous Fumarate (322mg),Iron
+2.9,Male,Ostocalcium B12 Syrup,Calcium
+17.3,Female,Ferrous Fumarate (322mg),Iron
+59.9,Male,B12 Nasal Spray,Vitamin B12
+31.6,Female,Ferrous Fumarate (322mg),Iron
+55.5,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+77,Male,B12 Nasal Spray,Vitamin B12
+69.2,Male,High-dose Calcium Carbonate,Calcium
+43.1,Female,Elemental Iron + Vit C,Iron
+4,Male,Calcium Carbonate Suspension,Calcium
+0.4,Male,Ultra-D3 Drops,Vitamin D
+1.4,Male,Ostocalcium B12 Syrup,Calcium
+89.5,Female,Hydroxocobalamin Injection,Vitamin B12
+3.3,Male,Ostocalcium B12 Syrup,Calcium
+0.6,Male,Vitamin D3 Drops (400 IU),Vitamin D
+56.6,Male,High-dose Calcium Carbonate,Calcium
+30.4,Female,Elemental Iron + Vit C,Iron
+0.5,Female,D3 Oral Drops,Vitamin D
+0.8,Male,Ultra-D3 Drops,Vitamin D
+61.8,Female,Hydroxocobalamin Injection,Vitamin B12
+3,Female,Calcium Carbonate Suspension,Calcium
+1,Male,Ferrous Sulfate Pediatric Drops,Iron
+23,Female,Ergocalciferol (D2),Vitamin D
+82.8,Male,High-dose Calcium Carbonate,Calcium
+49.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+87.5,Female,Hydroxocobalamin Injection,Vitamin B12
+29.5,Female,Ferrous Fumarate (322mg),Iron
+1,Female,Ostocalcium B12 Syrup,Calcium
+73,Male,Hydroxocobalamin Injection,Vitamin B12
+50.4,Female,Ergocalciferol (D2),Vitamin D
+21.9,Female,D3 2K IU Capsules,Vitamin D
+74.8,Male,Calcium Citrate + Magnesium,Calcium
+81.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Female,D3 Oral Drops,Vitamin D
+0.8,Male,Ultra-D3 Drops,Vitamin D
+69.2,Female,Cyanocobalamin Tablets,Vitamin B12
+43.8,Female,D3 2K IU Capsules,Vitamin D
+49.2,Female,Ergocalciferol (D2),Vitamin D
+35.8,Female,Ferrous Ascorbate Tablets,Iron
+26.4,Female,Ferrous Ascorbate Tablets,Iron
+1.6,Female,Iron Syrups,Iron
+76.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.4,Female,D3 Oral Drops,Vitamin D
+28.9,Female,Ergocalciferol (D2),Vitamin D
+48.8,Female,Elemental Iron + Vit C,Iron
+83.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Tonoferon Drops,Iron
+37.4,Female,Ferrous Ascorbate Tablets,Iron
+54.3,Female,Calcium Citrate + Magnesium,Calcium
+85.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+60.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+77,Female,Calcium Citrate + Magnesium,Calcium
+33.4,Female,Ergocalciferol (D2),Vitamin D
+15.4,Female,Elemental Iron + Vit C,Iron
+89.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+54.5,Male,Ergocalciferol (D2),Vitamin D
+75.4,Male,B12 Nasal Spray,Vitamin B12
+1.9,Male,Iron Syrups,Iron
+22.8,Male,Cyanocobalamin Tablets,Vitamin B12
+3.5,Female,Ostocalcium B12 Syrup,Calcium
+3.9,Male,Calcium Carbonate Suspension,Calcium
+34.9,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+4.8,Male,Calcium Carbonate Suspension,Calcium
+48.1,Female,D3 2K IU Capsules,Vitamin D
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+42.6,Female,Elemental Iron + Vit C,Iron
+66.4,Female,Hydroxocobalamin Injection,Vitamin B12
+1.7,Male,Iron Syrups,Iron
+63.6,Male,Hydroxocobalamin Injection,Vitamin B12
+4.4,Male,Calcium Carbonate Suspension,Calcium
+61.2,Female,Hydroxocobalamin Injection,Vitamin B12
+46.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+22.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+15.3,Female,Ferrous Fumarate (322mg),Iron
+27.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+81.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+48.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+40.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+71,Male,Calcium Citrate + Magnesium,Calcium
+30,Female,Ferrous Ascorbate Tablets,Iron
+4.8,Male,Calcium Carbonate Suspension,Calcium
+1.3,Female,Ferrous Sulfate Pediatric Drops,Iron
+49.1,Male,Cyanocobalamin Tablets,Vitamin B12
+67.9,Male,Hydroxocobalamin Injection,Vitamin B12
+52.8,Male,Cyanocobalamin Tablets,Vitamin B12
+86.2,Male,Shelcal 500,Calcium
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.8,Female,D3 Oral Drops,Vitamin D
+1.3,Female,Tonoferon Drops,Iron
+39.7,Female,Ergocalciferol (D2),Vitamin D
+0.7,Female,Tonoferon Drops,Iron
+85.5,Female,Calcium Citrate + Magnesium,Calcium
+88.1,Male,Hydroxocobalamin Injection,Vitamin B12
+1,Female,D3 Oral Drops,Vitamin D
+1,Male,Ferrous Sulfate Pediatric Drops,Iron
+75.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+78.9,Male,Cyanocobalamin Tablets,Vitamin B12
+44.8,Female,Elemental Iron + Vit C,Iron
+84.5,Male,High-dose Calcium Carbonate,Calcium
+36.3,Male,D3 2K IU Capsules,Vitamin D
+23,Male,Cyanocobalamin Tablets,Vitamin B12
+50.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.3,Male,Calcimax P Suspension,Calcium
+0.1,Male,Ultra-D3 Drops,Vitamin D
+26.6,Female,Elemental Iron + Vit C,Iron
+66.3,Female,Hydroxocobalamin Injection,Vitamin B12
+1.7,Male,Calcimax P Suspension,Calcium
+55.3,Female,High-dose Calcium Carbonate,Calcium
+22.4,Female,Elemental Iron + Vit C,Iron
+14.4,Male,D3 2K IU Capsules,Vitamin D
+59.9,Male,Calcium Citrate + Magnesium,Calcium
+42.8,Female,Ferrous Ascorbate Tablets,Iron
+64.9,Male,Cyanocobalamin Tablets,Vitamin B12
+62.3,Male,Cyanocobalamin Tablets,Vitamin B12
+3.7,Female,Ostocalcium B12 Syrup,Calcium
+79.7,Male,Shelcal 500,Calcium
+20.2,Female,Elemental Iron + Vit C,Iron
+1.9,Female,Ostocalcium B12 Syrup,Calcium
+89.8,Male,High-dose Calcium Carbonate,Calcium
+29.4,Female,Cyanocobalamin Tablets,Vitamin B12
+70.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+50.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+16.1,Female,Ferrous Fumarate (322mg),Iron
+1.5,Male,Calcimax P Suspension,Calcium
+19.7,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+74,Female,Shelcal 500,Calcium
+0.5,Male,D3 Oral Drops,Vitamin D
+21.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.6,Female,Tonoferon Drops,Iron
+13,Male,D3 2K IU Capsules,Vitamin D
+38.5,Male,Cyanocobalamin Tablets,Vitamin B12
+0.8,Female,D3 Oral Drops,Vitamin D
+1.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+32.8,Male,Cyanocobalamin Tablets,Vitamin B12
+57.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1,Male,D3 Oral Drops,Vitamin D
+62.3,Female,Shelcal 500,Calcium
+65,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+82.2,Male,Calcium Citrate + Magnesium,Calcium
+75.5,Female,Shelcal 500,Calcium
+29.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+51.2,Male,Calcium Citrate + Magnesium,Calcium
+27.9,Female,D3 2K IU Capsules,Vitamin D
+77,Male,Hydroxocobalamin Injection,Vitamin B12
+4.9,Female,Ostocalcium B12 Syrup,Calcium
+1,Female,Ferrous Sulfate Pediatric Drops,Iron
+68.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Female,Iron Syrups,Iron
+0.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+30.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+17.4,Female,Ferrous Fumarate (322mg),Iron
+48.4,Female,B12 Nasal Spray,Vitamin B12
+27.5,Male,Ergocalciferol (D2),Vitamin D
+2.6,Female,Ostocalcium B12 Syrup,Calcium
+59.8,Female,Shelcal 500,Calcium
+59.3,Female,B12 Nasal Spray,Vitamin B12
+1,Female,Ferrous Sulfate Pediatric Drops,Iron
+2.3,Female,Calcimax P Suspension,Calcium
+82.3,Male,High-dose Calcium Carbonate,Calcium
+1.2,Male,Iron Syrups,Iron
+1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+52.9,Female,B12 Nasal Spray,Vitamin B12
+39,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+14.7,Female,Ergocalciferol (D2),Vitamin D
+28.5,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+27.8,Female,Elemental Iron + Vit C,Iron
+25.4,Female,Ferrous Fumarate (322mg),Iron
+38.9,Male,D3 2K IU Capsules,Vitamin D
+73.8,Male,Shelcal 500,Calcium
+4.7,Female,Calcium Carbonate Suspension,Calcium
+86.3,Male,Hydroxocobalamin Injection,Vitamin B12
+1.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+56.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+76.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+35.3,Male,B12 Nasal Spray,Vitamin B12
+39.4,Female,Ferrous Fumarate (322mg),Iron
+19.7,Male,B12 Nasal Spray,Vitamin B12
+38.7,Female,Ergocalciferol (D2),Vitamin D
+39.8,Male,Ergocalciferol (D2),Vitamin D
+35.1,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+25.2,Female,Elemental Iron + Vit C,Iron
+89.9,Male,Hydroxocobalamin Injection,Vitamin B12
+40.6,Female,D3 2K IU Capsules,Vitamin D
+37.1,Female,Ferrous Ascorbate Tablets,Iron
+0.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+40.4,Female,B12 Nasal Spray,Vitamin B12
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+73.3,Female,High-dose Calcium Carbonate,Calcium
+73.6,Female,High-dose Calcium Carbonate,Calcium
+19,Female,Elemental Iron + Vit C,Iron
+47.2,Male,Cyanocobalamin Tablets,Vitamin B12
+75.4,Male,Hydroxocobalamin Injection,Vitamin B12
+61.3,Female,Calcium Citrate + Magnesium,Calcium
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+82.8,Male,Hydroxocobalamin Injection,Vitamin B12
+59.4,Female,D3 2K IU Capsules,Vitamin D
+1,Female,D3 Oral Drops,Vitamin D
+27.1,Female,D3 2K IU Capsules,Vitamin D
+20,Male,D3 2K IU Capsules,Vitamin D
+31.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+76.9,Male,High-dose Calcium Carbonate,Calcium
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+67.1,Male,Calcium Citrate + Magnesium,Calcium
+32.2,Female,Ferrous Ascorbate Tablets,Iron
+25.8,Female,B12 Nasal Spray,Vitamin B12
+57.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+44.3,Female,Ferrous Fumarate (322mg),Iron
+76.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+44.1,Female,B12 Nasal Spray,Vitamin B12
+61,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+56.5,Male,Hydroxocobalamin Injection,Vitamin B12
+12.9,Female,Ferrous Ascorbate Tablets,Iron
+57.7,Female,D3 2K IU Capsules,Vitamin D
+2.2,Male,Calcimax P Suspension,Calcium
+42.5,Female,Ergocalciferol (D2),Vitamin D
+0.7,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.4,Female,Ostocalcium B12 Syrup,Calcium
+40.4,Male,B12 Nasal Spray,Vitamin B12
+71.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+38.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.6,Female,Ferrous Sulfate Pediatric Drops,Iron
+3.3,Female,Calcimax P Suspension,Calcium
+1,Male,Ultra-D3 Drops,Vitamin D
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.9,Female,Ostocalcium B12 Syrup,Calcium
+21.7,Female,Cyanocobalamin Tablets,Vitamin B12
+17.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+24.7,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+44.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+4.6,Male,Calcium Carbonate Suspension,Calcium
+4.8,Male,Calcium Carbonate Suspension,Calcium
+86.1,Male,Hydroxocobalamin Injection,Vitamin B12
+2.6,Female,Calcium Carbonate Suspension,Calcium
+77.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+49.1,Female,D3 2K IU Capsules,Vitamin D
+26.4,Female,B12 Nasal Spray,Vitamin B12
+38.7,Female,Ferrous Fumarate (322mg),Iron
+0.8,Male,D3 Oral Drops,Vitamin D
+79.4,Male,Hydroxocobalamin Injection,Vitamin B12
+79.4,Male,B12 Nasal Spray,Vitamin B12
+1.9,Female,Tonoferon Drops,Iron
+39.4,Female,D3 2K IU Capsules,Vitamin D
+61.9,Male,B12 Nasal Spray,Vitamin B12
+69.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+47.8,Female,Ergocalciferol (D2),Vitamin D
+24.2,Female,Ferrous Fumarate (322mg),Iron
+70.8,Female,Hydroxocobalamin Injection,Vitamin B12
+1.2,Male,Ferrous Sulfate Pediatric Drops,Iron
+59.9,Female,Calcium Citrate + Magnesium,Calcium
+58,Male,Shelcal 500,Calcium
+89.5,Male,Hydroxocobalamin Injection,Vitamin B12
+1,Male,Ultra-D3 Drops,Vitamin D
+67.5,Male,Hydroxocobalamin Injection,Vitamin B12
+56,Male,High-dose Calcium Carbonate,Calcium
+85,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+65.9,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+55.8,Male,Hydroxocobalamin Injection,Vitamin B12
+70.7,Male,B12 Nasal Spray,Vitamin B12
+83.8,Female,Shelcal 500,Calcium
+0.6,Male,D3 Oral Drops,Vitamin D
+62.9,Female,B12 Nasal Spray,Vitamin B12
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.2,Male,Ultra-D3 Drops,Vitamin D
+0.6,Female,Ultra-D3 Drops,Vitamin D
+3,Female,Calcium Carbonate Suspension,Calcium
+81.8,Female,High-dose Calcium Carbonate,Calcium
+83.1,Male,High-dose Calcium Carbonate,Calcium
+2,Female,Ferrous Sulfate Pediatric Drops,Iron
+30.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+70.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+44.5,Female,Ferrous Ascorbate Tablets,Iron
+50,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+29.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.3,Male,Calcium Carbonate Suspension,Calcium
+1.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+63.8,Male,B12 Nasal Spray,Vitamin B12
+0.8,Male,D3 Oral Drops,Vitamin D
+60.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Ultra-D3 Drops,Vitamin D
+0.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+47.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+60.3,Male,Shelcal 500,Calcium
+3.6,Male,Calcimax P Suspension,Calcium
+38.4,Male,Ergocalciferol (D2),Vitamin D
+4,Male,Ostocalcium B12 Syrup,Calcium
+84.8,Male,Hydroxocobalamin Injection,Vitamin B12
+21.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+36.1,Male,D3 2K IU Capsules,Vitamin D
+52,Female,Cyanocobalamin Tablets,Vitamin B12
+59.7,Female,Shelcal 500,Calcium
+0.6,Male,Iron Syrups,Iron
+1,Female,Iron Syrups,Iron
+71.5,Male,B12 Nasal Spray,Vitamin B12
+12.5,Female,D3 2K IU Capsules,Vitamin D
+15.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+50.2,Male,Ergocalciferol (D2),Vitamin D
+1,Male,Tonoferon Drops,Iron
+0.9,Female,Tonoferon Drops,Iron
+1.6,Female,Ferrous Sulfate Pediatric Drops,Iron
+44.7,Female,Ferrous Fumarate (322mg),Iron
+28.5,Female,Ferrous Fumarate (322mg),Iron
+0.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+65.2,Male,High-dose Calcium Carbonate,Calcium
+2.7,Male,Calcimax P Suspension,Calcium
+3.5,Male,Calcium Carbonate Suspension,Calcium
+3.5,Male,Calcimax P Suspension,Calcium
+57.9,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+59,Female,D3 2K IU Capsules,Vitamin D
+43.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+42.3,Female,Elemental Iron + Vit C,Iron
+55.2,Female,High-dose Calcium Carbonate,Calcium
+88,Male,Calcium Citrate + Magnesium,Calcium
+69,Female,B12 Nasal Spray,Vitamin B12
+17.7,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+89.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+32.3,Female,Ferrous Ascorbate Tablets,Iron
+2.7,Male,Calcimax P Suspension,Calcium
+0.6,Female,Iron Syrups,Iron
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.1,Female,Ferrous Sulfate Pediatric Drops,Iron
+82,Male,Shelcal 500,Calcium
+29.2,Female,Ferrous Ascorbate Tablets,Iron
+15.3,Female,Elemental Iron + Vit C,Iron
+51.4,Male,Shelcal 500,Calcium
+0.6,Male,Tonoferon Drops,Iron
+87.5,Female,Hydroxocobalamin Injection,Vitamin B12
+1.7,Female,Calcium Carbonate Suspension,Calcium
+2.4,Female,Calcimax P Suspension,Calcium
+25.4,Male,D3 2K IU Capsules,Vitamin D
+52.1,Male,Calcium Citrate + Magnesium,Calcium
+70.2,Female,High-dose Calcium Carbonate,Calcium
+0.4,Female,Vitamin D3 Drops (400 IU),Vitamin D
+23.9,Male,Cyanocobalamin Tablets,Vitamin B12
+0.3,Female,Ultra-D3 Drops,Vitamin D
+56.5,Female,Hydroxocobalamin Injection,Vitamin B12
+0.4,Female,D3 Oral Drops,Vitamin D
+1.9,Female,Tonoferon Drops,Iron
+4.1,Male,Calcimax P Suspension,Calcium
+43.4,Female,Elemental Iron + Vit C,Iron
+3.2,Female,Ostocalcium B12 Syrup,Calcium
+83.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+62.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+71.1,Female,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+63.1,Female,Cyanocobalamin Tablets,Vitamin B12
+27.9,Female,Elemental Iron + Vit C,Iron
+1.9,Male,Calcium Carbonate Suspension,Calcium
+3,Female,Calcimax P Suspension,Calcium
+20.4,Female,Ferrous Fumarate (322mg),Iron
+0.5,Male,D3 Oral Drops,Vitamin D
+1.5,Female,Calcimax P Suspension,Calcium
+74.8,Male,Shelcal 500,Calcium
+2.5,Male,Calcimax P Suspension,Calcium
+38.2,Female,Ferrous Ascorbate Tablets,Iron
+1.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+29.9,Female,Ferrous Ascorbate Tablets,Iron
+3.8,Male,Calcimax P Suspension,Calcium
+2.5,Female,Ostocalcium B12 Syrup,Calcium
+26.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+36,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+2.1,Male,Ostocalcium B12 Syrup,Calcium
+36.6,Female,Elemental Iron + Vit C,Iron
+37.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+57.8,Female,Shelcal 500,Calcium
+3.4,Female,Calcimax P Suspension,Calcium
+1.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+36.4,Female,Cyanocobalamin Tablets,Vitamin B12
+0.6,Female,Ultra-D3 Drops,Vitamin D
+2.6,Female,Ostocalcium B12 Syrup,Calcium
+14.8,Male,D3 2K IU Capsules,Vitamin D
+23.6,Male,Ergocalciferol (D2),Vitamin D
+78.9,Female,Shelcal 500,Calcium
+3.9,Female,Ostocalcium B12 Syrup,Calcium
+80.1,Male,Hydroxocobalamin Injection,Vitamin B12
+12.1,Female,Ferrous Ascorbate Tablets,Iron
+4.2,Female,Ostocalcium B12 Syrup,Calcium
+4.2,Male,Ostocalcium B12 Syrup,Calcium
+78.7,Female,Calcium Citrate + Magnesium,Calcium
+25.3,Female,Ergocalciferol (D2),Vitamin D
+35.8,Male,Ergocalciferol (D2),Vitamin D
+87.9,Female,Hydroxocobalamin Injection,Vitamin B12
+73.4,Male,Cyanocobalamin Tablets,Vitamin B12
+17.2,Female,Ferrous Fumarate (322mg),Iron
+78.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.7,Male,Ferrous Sulfate Pediatric Drops,Iron
+59.4,Female,Hydroxocobalamin Injection,Vitamin B12
+87.9,Male,Calcium Citrate + Magnesium,Calcium
+1,Male,Tonoferon Drops,Iron
+70.9,Male,Hydroxocobalamin Injection,Vitamin B12
+76.8,Male,High-dose Calcium Carbonate,Calcium
+71.1,Male,B12 Nasal Spray,Vitamin B12
+68.8,Female,High-dose Calcium Carbonate,Calcium
+48.1,Female,Elemental Iron + Vit C,Iron
+47.8,Male,B12 Nasal Spray,Vitamin B12
+4.3,Female,Ostocalcium B12 Syrup,Calcium
+82.5,Male,High-dose Calcium Carbonate,Calcium
+33,Female,Ferrous Fumarate (322mg),Iron
+0.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+45.7,Female,Ferrous Ascorbate Tablets,Iron
+61,Female,Hydroxocobalamin Injection,Vitamin B12
+41.6,Female,Ferrous Ascorbate Tablets,Iron
+45.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+2.5,Male,Ostocalcium B12 Syrup,Calcium
+82.2,Male,High-dose Calcium Carbonate,Calcium
+55.2,Male,Cyanocobalamin Tablets,Vitamin B12
+80.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+37.9,Male,B12 Nasal Spray,Vitamin B12
+2.7,Female,Calcimax P Suspension,Calcium
+88.6,Male,Shelcal 500,Calcium
+59.4,Female,D3 2K IU Capsules,Vitamin D
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+37.8,Female,Ferrous Ascorbate Tablets,Iron
+19.2,Female,Cyanocobalamin Tablets,Vitamin B12
+67.5,Female,High-dose Calcium Carbonate,Calcium
+31.1,Female,Elemental Iron + Vit C,Iron
+89.5,Male,Calcium Citrate + Magnesium,Calcium
+16.4,Female,Ergocalciferol (D2),Vitamin D
+30.9,Female,Elemental Iron + Vit C,Iron
+67.9,Female,Hydroxocobalamin Injection,Vitamin B12
+0.1,Female,D3 Oral Drops,Vitamin D
+28.2,Male,Cyanocobalamin Tablets,Vitamin B12
+1.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+72.5,Male,Cyanocobalamin Tablets,Vitamin B12
+64.6,Male,Calcium Citrate + Magnesium,Calcium
+1.9,Male,Iron Syrups,Iron
+66.7,Female,Shelcal 500,Calcium
+21.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+67.4,Male,Hydroxocobalamin Injection,Vitamin B12
+0.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+50.8,Male,Ergocalciferol (D2),Vitamin D
+0.8,Female,Tonoferon Drops,Iron
+3.7,Female,Calcium Carbonate Suspension,Calcium
+84.6,Male,Calcium Citrate + Magnesium,Calcium
+75.9,Male,Calcium Citrate + Magnesium,Calcium
+2.4,Female,Calcimax P Suspension,Calcium
+16,Male,Ergocalciferol (D2),Vitamin D
+85.2,Female,Shelcal 500,Calcium
+38.9,Female,Ferrous Ascorbate Tablets,Iron
+3.2,Male,Ostocalcium B12 Syrup,Calcium
+3.9,Male,Calcium Carbonate Suspension,Calcium
+0,Female,Ultra-D3 Drops,Vitamin D
+1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+2.3,Female,Calcimax P Suspension,Calcium
+82.4,Female,Hydroxocobalamin Injection,Vitamin B12
+1,Male,Ultra-D3 Drops,Vitamin D
+66.8,Female,Shelcal 500,Calcium
+61.2,Female,Hydroxocobalamin Injection,Vitamin B12
+1.1,Male,Iron Syrups,Iron
+1.1,Female,Tonoferon Drops,Iron
+55.1,Male,High-dose Calcium Carbonate,Calcium
+35,Male,Ergocalciferol (D2),Vitamin D
+55,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+65.8,Female,Shelcal 500,Calcium
+46.1,Female,Ferrous Fumarate (322mg),Iron
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+70.5,Female,Hydroxocobalamin Injection,Vitamin B12
+0.3,Male,Ultra-D3 Drops,Vitamin D
+60.2,Male,Hydroxocobalamin Injection,Vitamin B12
+3.8,Male,Calcimax P Suspension,Calcium
+1.5,Male,Ferrous Sulfate Pediatric Drops,Iron
+56.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+33.3,Female,Ferrous Ascorbate Tablets,Iron
+58.1,Male,Shelcal 500,Calcium
+14.9,Male,Ergocalciferol (D2),Vitamin D
+1.8,Female,Calcium Carbonate Suspension,Calcium
+45.3,Female,Elemental Iron + Vit C,Iron
+79.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+66.1,Female,High-dose Calcium Carbonate,Calcium
+30.2,Female,Ergocalciferol (D2),Vitamin D
+1.7,Female,Calcium Carbonate Suspension,Calcium
+0.7,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.6,Female,D3 Oral Drops,Vitamin D
+32.8,Female,Elemental Iron + Vit C,Iron
+57.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+21.5,Female,Ferrous Fumarate (322mg),Iron
+75,Male,B12 Nasal Spray,Vitamin B12
+48.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.4,Male,Ultra-D3 Drops,Vitamin D
+0.8,Female,Iron Syrups,Iron
+46.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+74.3,Female,B12 Nasal Spray,Vitamin B12
+49.1,Female,Ferrous Ascorbate Tablets,Iron
+1.9,Male,Calcimax P Suspension,Calcium
+14.8,Female,Elemental Iron + Vit C,Iron
+20.6,Female,Ergocalciferol (D2),Vitamin D
+69.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+76.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+68.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Female,D3 Oral Drops,Vitamin D
+23.6,Female,Cyanocobalamin Tablets,Vitamin B12
+27.2,Female,Ergocalciferol (D2),Vitamin D
+0.2,Female,Ultra-D3 Drops,Vitamin D
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+89,Female,High-dose Calcium Carbonate,Calcium
+4.1,Male,Ostocalcium B12 Syrup,Calcium
+2.2,Male,Calcimax P Suspension,Calcium
+0.5,Male,Vitamin D3 Drops (400 IU),Vitamin D
+63.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+4.1,Female,Calcimax P Suspension,Calcium
+48.5,Female,Cyanocobalamin Tablets,Vitamin B12
+28.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+29,Female,Ferrous Ascorbate Tablets,Iron
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+4.1,Female,Ostocalcium B12 Syrup,Calcium
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+59.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.7,Female,Ultra-D3 Drops,Vitamin D
+0.1,Male,Ultra-D3 Drops,Vitamin D
+65.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+64.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+77.8,Male,Hydroxocobalamin Injection,Vitamin B12
+33.1,Female,B12 Nasal Spray,Vitamin B12
+1.1,Female,Iron Syrups,Iron
+0.1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+2.7,Male,Ostocalcium B12 Syrup,Calcium
+60.8,Female,Hydroxocobalamin Injection,Vitamin B12
+58.9,Male,Cyanocobalamin Tablets,Vitamin B12
+68.5,Male,Hydroxocobalamin Injection,Vitamin B12
+0.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+39.2,Male,D3 2K IU Capsules,Vitamin D
+32.1,Female,Elemental Iron + Vit C,Iron
+21.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+2,Male,Tonoferon Drops,Iron
+27.8,Female,Elemental Iron + Vit C,Iron
+0.3,Male,Ultra-D3 Drops,Vitamin D
+0.7,Female,Iron Syrups,Iron
+41.2,Female,Elemental Iron + Vit C,Iron
+75,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+70,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.8,Male,Calcium Carbonate Suspension,Calcium
+42.3,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+63.8,Male,Hydroxocobalamin Injection,Vitamin B12
+85.6,Female,Calcium Citrate + Magnesium,Calcium
+87.6,Female,Calcium Citrate + Magnesium,Calcium
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+63.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+80.5,Female,High-dose Calcium Carbonate,Calcium
+63.8,Male,Hydroxocobalamin Injection,Vitamin B12
+86.6,Male,Hydroxocobalamin Injection,Vitamin B12
+0.9,Female,Ultra-D3 Drops,Vitamin D
+84.7,Female,Hydroxocobalamin Injection,Vitamin B12
+1.2,Female,Tonoferon Drops,Iron
+38.6,Female,Ferrous Fumarate (322mg),Iron
+86.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+12.1,Female,Ferrous Ascorbate Tablets,Iron
+44.6,Female,Elemental Iron + Vit C,Iron
+79.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1,Female,Ferrous Sulfate Pediatric Drops,Iron
+88.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+3.1,Female,Ostocalcium B12 Syrup,Calcium
+32.6,Female,Ferrous Fumarate (322mg),Iron
+16.1,Female,Ferrous Fumarate (322mg),Iron
+61.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.6,Male,D3 Oral Drops,Vitamin D
+31.7,Female,Ergocalciferol (D2),Vitamin D
+73,Female,Shelcal 500,Calcium
+65.8,Male,High-dose Calcium Carbonate,Calcium
+68.6,Male,Hydroxocobalamin Injection,Vitamin B12
+4.1,Male,Calcimax P Suspension,Calcium
+18,Female,Ferrous Fumarate (322mg),Iron
+79.9,Male,Calcium Citrate + Magnesium,Calcium
+0.8,Female,Ultra-D3 Drops,Vitamin D
+44.7,Female,D3 2K IU Capsules,Vitamin D
+0.5,Male,D3 Oral Drops,Vitamin D
+51.9,Female,Calcium Citrate + Magnesium,Calcium
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.5,Male,Iron Syrups,Iron
+33.7,Female,Elemental Iron + Vit C,Iron
+14.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.4,Male,Tonoferon Drops,Iron
+40.8,Male,Ergocalciferol (D2),Vitamin D
+51.2,Female,High-dose Calcium Carbonate,Calcium
+79.2,Female,High-dose Calcium Carbonate,Calcium
+77,Male,Calcium Citrate + Magnesium,Calcium
+3.9,Female,Calcimax P Suspension,Calcium
+49.3,Female,Elemental Iron + Vit C,Iron
+87.6,Male,Hydroxocobalamin Injection,Vitamin B12
+55.1,Female,High-dose Calcium Carbonate,Calcium
+66.4,Male,Shelcal 500,Calcium
+25,Male,Ergocalciferol (D2),Vitamin D
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.5,Female,Tonoferon Drops,Iron
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+80.6,Male,Hydroxocobalamin Injection,Vitamin B12
+78,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+84.9,Male,High-dose Calcium Carbonate,Calcium
+1.5,Female,Iron Syrups,Iron
+68,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.6,Female,Iron Syrups,Iron
+33.9,Female,Ferrous Ascorbate Tablets,Iron
+54.1,Female,Cyanocobalamin Tablets,Vitamin B12
+0.7,Female,Tonoferon Drops,Iron
+37.7,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+52.8,Male,D3 2K IU Capsules,Vitamin D
+0.9,Female,Ultra-D3 Drops,Vitamin D
+23.5,Female,Ferrous Ascorbate Tablets,Iron
+0.8,Female,Tonoferon Drops,Iron
+51.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+32.8,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+69.1,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+53.1,Female,High-dose Calcium Carbonate,Calcium
+81.4,Male,Calcium Citrate + Magnesium,Calcium
+0.5,Female,Tonoferon Drops,Iron
+43.1,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+38.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+42.5,Female,Ferrous Fumarate (322mg),Iron
+42.9,Male,Ergocalciferol (D2),Vitamin D
+0.2,Female,Ultra-D3 Drops,Vitamin D
+0.6,Female,Ultra-D3 Drops,Vitamin D
+59.9,Male,Shelcal 500,Calcium
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+25.3,Female,Ferrous Ascorbate Tablets,Iron
+28.9,Female,Ferrous Fumarate (322mg),Iron
+4.3,Male,Calcium Carbonate Suspension,Calcium
+3.6,Male,Calcimax P Suspension,Calcium
+49.1,Male,Cyanocobalamin Tablets,Vitamin B12
+51.5,Male,B12 Nasal Spray,Vitamin B12
+0.5,Male,Iron Syrups,Iron
+67.6,Female,Hydroxocobalamin Injection,Vitamin B12
+1.4,Female,Tonoferon Drops,Iron
+80.6,Female,High-dose Calcium Carbonate,Calcium
+62.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,D3 Oral Drops,Vitamin D
+0.1,Male,D3 Oral Drops,Vitamin D
+26.2,Female,Cyanocobalamin Tablets,Vitamin B12
+45.7,Female,Elemental Iron + Vit C,Iron
+0.8,Female,Ultra-D3 Drops,Vitamin D
+56.4,Female,Shelcal 500,Calcium
+0.3,Female,D3 Oral Drops,Vitamin D
+86.8,Female,Hydroxocobalamin Injection,Vitamin B12
+79.4,Male,Calcium Citrate + Magnesium,Calcium
+1.7,Female,Iron Syrups,Iron
+1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+39.7,Female,B12 Nasal Spray,Vitamin B12
+46.9,Female,Ferrous Ascorbate Tablets,Iron
+64.8,Male,Calcium Citrate + Magnesium,Calcium
+26.7,Female,Elemental Iron + Vit C,Iron
+0.3,Female,Vitamin D3 Drops (400 IU),Vitamin D
+34.1,Female,Elemental Iron + Vit C,Iron
+71.3,Male,B12 Nasal Spray,Vitamin B12
+53.7,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+64.4,Male,Calcium Citrate + Magnesium,Calcium
+88.3,Male,Hydroxocobalamin Injection,Vitamin B12
+57.9,Male,Shelcal 500,Calcium
+56.1,Male,Ergocalciferol (D2),Vitamin D
+3.4,Female,Calcimax P Suspension,Calcium
+0.8,Female,D3 Oral Drops,Vitamin D
+4.6,Female,Ostocalcium B12 Syrup,Calcium
+37.4,Male,B12 Nasal Spray,Vitamin B12
+36.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+59.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+39.9,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.4,Male,Calcimax P Suspension,Calcium
+40.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+54,Female,B12 Nasal Spray,Vitamin B12
+0.5,Female,Ultra-D3 Drops,Vitamin D
+36.6,Female,Cyanocobalamin Tablets,Vitamin B12
+27.4,Female,Ferrous Ascorbate Tablets,Iron
+0.9,Female,Ultra-D3 Drops,Vitamin D
+24,Male,D3 2K IU Capsules,Vitamin D
+89.5,Female,Shelcal 500,Calcium
+32.9,Male,B12 Nasal Spray,Vitamin B12
+25.7,Male,Ergocalciferol (D2),Vitamin D
+84.7,Female,Calcium Citrate + Magnesium,Calcium
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.5,Female,Iron Syrups,Iron
+40.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+34.3,Female,Ferrous Ascorbate Tablets,Iron
+64.3,Female,B12 Nasal Spray,Vitamin B12
+36.2,Female,D3 2K IU Capsules,Vitamin D
+0.5,Female,Ultra-D3 Drops,Vitamin D
+30.1,Female,Elemental Iron + Vit C,Iron
+2.3,Female,Ostocalcium B12 Syrup,Calcium
+1.1,Male,Tonoferon Drops,Iron
+39.9,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.2,Female,Ultra-D3 Drops,Vitamin D
+3.8,Female,Calcimax P Suspension,Calcium
+15.7,Female,Ferrous Ascorbate Tablets,Iron
+2.7,Male,Calcimax P Suspension,Calcium
+52.7,Female,Shelcal 500,Calcium
+0.9,Male,Ultra-D3 Drops,Vitamin D
+23.2,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+28.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+44.3,Female,Ferrous Ascorbate Tablets,Iron
+68.3,Female,Hydroxocobalamin Injection,Vitamin B12
+2.2,Female,Ostocalcium B12 Syrup,Calcium
+64.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Female,Ultra-D3 Drops,Vitamin D
+78.1,Male,High-dose Calcium Carbonate,Calcium
+50.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+76.8,Female,High-dose Calcium Carbonate,Calcium
+40.1,Female,Ferrous Ascorbate Tablets,Iron
+12.5,Female,Elemental Iron + Vit C,Iron
+0.9,Male,Iron Syrups,Iron
+58.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+63.3,Female,Cyanocobalamin Tablets,Vitamin B12
+60.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.1,Female,Tonoferon Drops,Iron
+1.6,Female,Calcium Carbonate Suspension,Calcium
+0.3,Female,Ultra-D3 Drops,Vitamin D
+72.2,Female,Shelcal 500,Calcium
+72.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+52.2,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+18.9,Female,Elemental Iron + Vit C,Iron
+58.2,Female,Ergocalciferol (D2),Vitamin D
+46.1,Female,Elemental Iron + Vit C,Iron
+56.3,Female,D3 2K IU Capsules,Vitamin D
+22,Female,B12 Nasal Spray,Vitamin B12
+18.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+50.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+4.4,Female,Calcium Carbonate Suspension,Calcium
+1.3,Female,Ferrous Sulfate Pediatric Drops,Iron
+53.5,Female,D3 2K IU Capsules,Vitamin D
+42.4,Female,Ergocalciferol (D2),Vitamin D
+51.4,Female,Calcium Citrate + Magnesium,Calcium
+1.9,Male,Tonoferon Drops,Iron
+19.4,Female,D3 2K IU Capsules,Vitamin D
+38.5,Female,B12 Nasal Spray,Vitamin B12
+31.7,Female,B12 Nasal Spray,Vitamin B12
+3.7,Female,Ostocalcium B12 Syrup,Calcium
+0.5,Female,Tonoferon Drops,Iron
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+45.6,Female,Ferrous Ascorbate Tablets,Iron
+1.1,Female,Calcium Carbonate Suspension,Calcium
+60.3,Female,Calcium Citrate + Magnesium,Calcium
+2.3,Female,Calcimax P Suspension,Calcium
+4,Male,Ostocalcium B12 Syrup,Calcium
+4.3,Female,Calcimax P Suspension,Calcium
+0.2,Female,D3 Oral Drops,Vitamin D
+2,Female,Ferrous Sulfate Pediatric Drops,Iron
+13.5,Female,Ferrous Fumarate (322mg),Iron
+4.3,Male,Ostocalcium B12 Syrup,Calcium
+4.5,Female,Calcium Carbonate Suspension,Calcium
+44.2,Female,Ergocalciferol (D2),Vitamin D
+57.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+24.4,Male,D3 2K IU Capsules,Vitamin D
+0.5,Female,Vitamin D3 Drops (400 IU),Vitamin D
+58.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.1,Male,Calcimax P Suspension,Calcium
+29.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+85.9,Female,Calcium Citrate + Magnesium,Calcium
+55.7,Female,High-dose Calcium Carbonate,Calcium
+37.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+62,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.6,Female,Calcimax P Suspension,Calcium
+2,Male,Calcimax P Suspension,Calcium
+27.8,Male,B12 Nasal Spray,Vitamin B12
+54.7,Female,High-dose Calcium Carbonate,Calcium
+37.2,Female,Ferrous Fumarate (322mg),Iron
+1.2,Female,Ferrous Sulfate Pediatric Drops,Iron
+55.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+52.5,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+61.9,Female,Shelcal 500,Calcium
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.5,Male,Tonoferon Drops,Iron
+40.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+29.2,Female,Ferrous Fumarate (322mg),Iron
+1.7,Female,Iron Syrups,Iron
+4.6,Male,Calcium Carbonate Suspension,Calcium
+0.9,Male,Iron Syrups,Iron
+57.3,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+82.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+32.9,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.6,Female,Tonoferon Drops,Iron
+54.8,Female,B12 Nasal Spray,Vitamin B12
+0.7,Female,Iron Syrups,Iron
+4.2,Female,Calcimax P Suspension,Calcium
+1.1,Female,Ostocalcium B12 Syrup,Calcium
+0.5,Female,D3 Oral Drops,Vitamin D
+54.3,Male,Ergocalciferol (D2),Vitamin D
+0.1,Male,Ultra-D3 Drops,Vitamin D
+43.7,Female,Elemental Iron + Vit C,Iron
+4.2,Male,Ostocalcium B12 Syrup,Calcium
+76.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.7,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.2,Male,D3 Oral Drops,Vitamin D
+1.3,Male,Ferrous Sulfate Pediatric Drops,Iron
+33.4,Female,B12 Nasal Spray,Vitamin B12
+0.2,Female,Ultra-D3 Drops,Vitamin D
+36.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+23.7,Female,D3 2K IU Capsules,Vitamin D
+77.3,Female,B12 Nasal Spray,Vitamin B12
+88.1,Female,Shelcal 500,Calcium
+70.8,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+46,Female,Ferrous Fumarate (322mg),Iron
+1,Female,Tonoferon Drops,Iron
+3.4,Female,Ostocalcium B12 Syrup,Calcium
+46.5,Female,Ferrous Ascorbate Tablets,Iron
+0.8,Male,Ultra-D3 Drops,Vitamin D
+72.4,Male,High-dose Calcium Carbonate,Calcium
+36.2,Female,B12 Nasal Spray,Vitamin B12
+0.3,Male,D3 Oral Drops,Vitamin D
+59.2,Male,B12 Nasal Spray,Vitamin B12
+2.2,Female,Calcium Carbonate Suspension,Calcium
+23.3,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+81.4,Female,Hydroxocobalamin Injection,Vitamin B12
+1.6,Female,Ferrous Sulfate Pediatric Drops,Iron
+69.1,Female,Hydroxocobalamin Injection,Vitamin B12
+75.9,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+3.1,Male,Ostocalcium B12 Syrup,Calcium
+47.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.9,Male,Tonoferon Drops,Iron
+82.1,Male,Hydroxocobalamin Injection,Vitamin B12
+3.5,Male,Calcimax P Suspension,Calcium
+23.3,Female,Ferrous Ascorbate Tablets,Iron
+0.4,Female,Ultra-D3 Drops,Vitamin D
+68.6,Female,Shelcal 500,Calcium
+1.2,Male,Calcimax P Suspension,Calcium
+1.1,Male,Iron Syrups,Iron
+65.8,Female,B12 Nasal Spray,Vitamin B12
+54.2,Female,B12 Nasal Spray,Vitamin B12
+0.9,Female,D3 Oral Drops,Vitamin D
+4.8,Female,Calcimax P Suspension,Calcium
+85.5,Female,Hydroxocobalamin Injection,Vitamin B12
+59.6,Female,Cyanocobalamin Tablets,Vitamin B12
+0.7,Male,Iron Syrups,Iron
+87.9,Male,Hydroxocobalamin Injection,Vitamin B12
+3.1,Female,Calcium Carbonate Suspension,Calcium
+45.1,Female,Elemental Iron + Vit C,Iron
+76.9,Male,Shelcal 500,Calcium
+76.5,Male,High-dose Calcium Carbonate,Calcium
+84.9,Female,Calcium Citrate + Magnesium,Calcium
+57.7,Female,Calcium Citrate + Magnesium,Calcium
+64.6,Female,Hydroxocobalamin Injection,Vitamin B12
+20.3,Female,Cyanocobalamin Tablets,Vitamin B12
+0.8,Female,D3 Oral Drops,Vitamin D
+74.9,Male,Hydroxocobalamin Injection,Vitamin B12
+4.7,Male,Calcium Carbonate Suspension,Calcium
+65.4,Male,Calcium Citrate + Magnesium,Calcium
+60.8,Female,High-dose Calcium Carbonate,Calcium
+0.8,Female,D3 Oral Drops,Vitamin D
+80.7,Female,Calcium Citrate + Magnesium,Calcium
+63.2,Female,Hydroxocobalamin Injection,Vitamin B12
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+48.6,Female,Ferrous Ascorbate Tablets,Iron
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.5,Male,Ultra-D3 Drops,Vitamin D
+14.6,Female,Elemental Iron + Vit C,Iron
+28.6,Female,Ferrous Ascorbate Tablets,Iron
+55.5,Female,Ergocalciferol (D2),Vitamin D
+86.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Tonoferon Drops,Iron
+37,Female,Ferrous Fumarate (322mg),Iron
+27.8,Male,Ergocalciferol (D2),Vitamin D
+2.6,Male,Calcium Carbonate Suspension,Calcium
+26.4,Female,Ferrous Ascorbate Tablets,Iron
+82.6,Male,Calcium Citrate + Magnesium,Calcium
+35.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+71.5,Female,High-dose Calcium Carbonate,Calcium
+64.1,Male,Hydroxocobalamin Injection,Vitamin B12
+17.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0,Male,D3 Oral Drops,Vitamin D
+75.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+55.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+4.6,Female,Calcium Carbonate Suspension,Calcium
+2.8,Female,Ostocalcium B12 Syrup,Calcium
+0.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+57.6,Male,Shelcal 500,Calcium
+27.7,Female,Ferrous Ascorbate Tablets,Iron
+55.5,Female,Ergocalciferol (D2),Vitamin D
+0.5,Female,Ultra-D3 Drops,Vitamin D
+1,Male,Calcimax P Suspension,Calcium
+26.1,Female,Elemental Iron + Vit C,Iron
+68.7,Male,Shelcal 500,Calcium
+19.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+30.9,Female,D3 2K IU Capsules,Vitamin D
+73.5,Female,Calcium Citrate + Magnesium,Calcium
+40.5,Female,Ferrous Fumarate (322mg),Iron
+53.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+25.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+56,Male,D3 2K IU Capsules,Vitamin D
+85.3,Male,High-dose Calcium Carbonate,Calcium
+32.3,Male,D3 2K IU Capsules,Vitamin D
+1.5,Male,Calcimax P Suspension,Calcium
+3.8,Female,Calcimax P Suspension,Calcium
+42.9,Female,Cyanocobalamin Tablets,Vitamin B12
+59.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.6,Male,Calcium Carbonate Suspension,Calcium
+30.6,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.2,Female,D3 Oral Drops,Vitamin D
+69.6,Male,Hydroxocobalamin Injection,Vitamin B12
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+44.5,Female,Elemental Iron + Vit C,Iron
+1,Male,Calcium Carbonate Suspension,Calcium
+1.1,Male,Ostocalcium B12 Syrup,Calcium
+81.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+23,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.5,Male,Ultra-D3 Drops,Vitamin D
+4.8,Female,Calcium Carbonate Suspension,Calcium
+35.5,Female,Elemental Iron + Vit C,Iron
+47.2,Female,Ergocalciferol (D2),Vitamin D
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.7,Male,Vitamin D3 Drops (400 IU),Vitamin D
+39.2,Female,Ferrous Fumarate (322mg),Iron
+0.4,Female,D3 Oral Drops,Vitamin D
+0.7,Male,Iron Syrups,Iron
+82.4,Female,Hydroxocobalamin Injection,Vitamin B12
+0.8,Male,D3 Oral Drops,Vitamin D
+1.8,Female,Calcium Carbonate Suspension,Calcium
+59.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+76.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+83,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+60,Male,Shelcal 500,Calcium
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+47.1,Female,Ferrous Ascorbate Tablets,Iron
+80.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.4,Male,High-dose Calcium Carbonate,Calcium
+1,Female,D3 Oral Drops,Vitamin D
+67.3,Male,Hydroxocobalamin Injection,Vitamin B12
+3.4,Female,Calcimax P Suspension,Calcium
+5,Male,Calcium Carbonate Suspension,Calcium
+63.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+4.3,Female,Calcium Carbonate Suspension,Calcium
+1.2,Female,Calcimax P Suspension,Calcium
+0.6,Male,Iron Syrups,Iron
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+3.1,Male,Calcimax P Suspension,Calcium
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+1.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.8,Female,Calcimax P Suspension,Calcium
+76.6,Female,Shelcal 500,Calcium
+69.4,Male,Shelcal 500,Calcium
+27.5,Male,D3 2K IU Capsules,Vitamin D
+63.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+56.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+18.9,Female,Ferrous Ascorbate Tablets,Iron
+12.8,Female,Ferrous Fumarate (322mg),Iron
+24.7,Male,Cyanocobalamin Tablets,Vitamin B12
+51,Female,Cyanocobalamin Tablets,Vitamin B12
+0.9,Female,Ultra-D3 Drops,Vitamin D
+56.5,Female,Hydroxocobalamin Injection,Vitamin B12
+66,Female,High-dose Calcium Carbonate,Calcium
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.2,Male,Iron Syrups,Iron
+71.8,Female,High-dose Calcium Carbonate,Calcium
+89.3,Male,High-dose Calcium Carbonate,Calcium
+79,Female,Calcium Citrate + Magnesium,Calcium
+23.2,Female,Ferrous Fumarate (322mg),Iron
+69.4,Female,Hydroxocobalamin Injection,Vitamin B12
+39.8,Female,B12 Nasal Spray,Vitamin B12
+86.8,Female,Hydroxocobalamin Injection,Vitamin B12
+0.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.4,Female,Iron Syrups,Iron
+46.1,Female,Ergocalciferol (D2),Vitamin D
+1.5,Female,Calcium Carbonate Suspension,Calcium
+47.7,Female,Ferrous Ascorbate Tablets,Iron
+32.1,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+4.1,Male,Calcimax P Suspension,Calcium
+0.4,Male,D3 Oral Drops,Vitamin D
+3.5,Female,Calcimax P Suspension,Calcium
+68.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1,Male,Iron Syrups,Iron
+38.4,Male,Ergocalciferol (D2),Vitamin D
+59.5,Male,Hydroxocobalamin Injection,Vitamin B12
+37.5,Female,Elemental Iron + Vit C,Iron
+0.5,Female,Iron Syrups,Iron
+0.4,Male,Ferrous Sulfate Pediatric Drops,Iron
+32.1,Female,Ferrous Ascorbate Tablets,Iron
+1.5,Male,Calcium Carbonate Suspension,Calcium
+0.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+59.5,Female,Hydroxocobalamin Injection,Vitamin B12
+55.9,Female,Ergocalciferol (D2),Vitamin D
+47.2,Female,Elemental Iron + Vit C,Iron
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+62.6,Female,Calcium Citrate + Magnesium,Calcium
+48.9,Female,Ergocalciferol (D2),Vitamin D
+1,Male,D3 Oral Drops,Vitamin D
+44.8,Male,D3 2K IU Capsules,Vitamin D
+26.5,Female,Cyanocobalamin Tablets,Vitamin B12
+40.8,Male,B12 Nasal Spray,Vitamin B12
+34.6,Female,Elemental Iron + Vit C,Iron
+85.7,Female,High-dose Calcium Carbonate,Calcium
+58,Male,Ergocalciferol (D2),Vitamin D
+4.1,Female,Calcium Carbonate Suspension,Calcium
+1,Male,Tonoferon Drops,Iron
+83.2,Female,High-dose Calcium Carbonate,Calcium
+0.5,Male,Ultra-D3 Drops,Vitamin D
+33.5,Male,B12 Nasal Spray,Vitamin B12
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+4.3,Female,Calcimax P Suspension,Calcium
+43.7,Female,Ferrous Ascorbate Tablets,Iron
+2,Female,Ferrous Sulfate Pediatric Drops,Iron
+1.1,Female,Calcimax P Suspension,Calcium
+63,Male,B12 Nasal Spray,Vitamin B12
+48.9,Female,Ergocalciferol (D2),Vitamin D
+19.8,Male,Cyanocobalamin Tablets,Vitamin B12
+85.5,Female,Hydroxocobalamin Injection,Vitamin B12
+81.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+77,Male,High-dose Calcium Carbonate,Calcium
+3.5,Male,Ostocalcium B12 Syrup,Calcium
+59.1,Female,B12 Nasal Spray,Vitamin B12
+76.2,Male,B12 Nasal Spray,Vitamin B12
+33.6,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+88.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+24.3,Female,D3 2K IU Capsules,Vitamin D
+77,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+20.1,Female,Ferrous Ascorbate Tablets,Iron
+75.1,Male,Hydroxocobalamin Injection,Vitamin B12
+70,Female,Hydroxocobalamin Injection,Vitamin B12
+2.4,Female,Calcium Carbonate Suspension,Calcium
+34.1,Male,Ergocalciferol (D2),Vitamin D
+1.4,Female,Tonoferon Drops,Iron
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+2.1,Female,Calcium Carbonate Suspension,Calcium
+47.8,Female,Ferrous Fumarate (322mg),Iron
+0.8,Female,Ultra-D3 Drops,Vitamin D
+81.9,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+80.8,Female,Shelcal 500,Calcium
+1,Female,Ultra-D3 Drops,Vitamin D
+59.9,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+3,Male,Calcimax P Suspension,Calcium
+52.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.5,Male,D3 Oral Drops,Vitamin D
+1,Female,D3 Oral Drops,Vitamin D
+45,Female,D3 2K IU Capsules,Vitamin D
+62.7,Male,High-dose Calcium Carbonate,Calcium
+0.6,Female,Ultra-D3 Drops,Vitamin D
+72.3,Female,Cyanocobalamin Tablets,Vitamin B12
+24,Male,Cyanocobalamin Tablets,Vitamin B12
+0.5,Female,Ultra-D3 Drops,Vitamin D
+70.6,Female,B12 Nasal Spray,Vitamin B12
+70.7,Male,Calcium Citrate + Magnesium,Calcium
+53.2,Male,Ergocalciferol (D2),Vitamin D
+63.8,Female,Hydroxocobalamin Injection,Vitamin B12
+0.4,Male,D3 Oral Drops,Vitamin D
+31.4,Male,Cyanocobalamin Tablets,Vitamin B12
+4.6,Female,Ostocalcium B12 Syrup,Calcium
+61.6,Female,Cyanocobalamin Tablets,Vitamin B12
+29,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+49.3,Female,Elemental Iron + Vit C,Iron
+4.7,Female,Calcium Carbonate Suspension,Calcium
+1.4,Female,Ostocalcium B12 Syrup,Calcium
+86.4,Male,Hydroxocobalamin Injection,Vitamin B12
+1,Male,D3 Oral Drops,Vitamin D
+22.4,Male,Ergocalciferol (D2),Vitamin D
+67.2,Female,Hydroxocobalamin Injection,Vitamin B12
+43,Male,D3 2K IU Capsules,Vitamin D
+2.3,Male,Ostocalcium B12 Syrup,Calcium
+71.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+63.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.9,Female,Calcimax P Suspension,Calcium
+68.4,Female,Calcium Citrate + Magnesium,Calcium
+33.9,Female,Ferrous Fumarate (322mg),Iron
+29.3,Female,Ferrous Ascorbate Tablets,Iron
+70.6,Female,B12 Nasal Spray,Vitamin B12
+61.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+26.2,Female,Elemental Iron + Vit C,Iron
+36,Female,Ferrous Ascorbate Tablets,Iron
+77,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.1,Female,Calcimax P Suspension,Calcium
+38.3,Female,Ferrous Fumarate (322mg),Iron
+43.1,Female,Elemental Iron + Vit C,Iron
+0.8,Male,Ultra-D3 Drops,Vitamin D
+72.1,Male,High-dose Calcium Carbonate,Calcium
+1.4,Female,Iron Syrups,Iron
+75.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+24.2,Female,Ergocalciferol (D2),Vitamin D
+13.4,Female,Elemental Iron + Vit C,Iron
+1.5,Male,Calcium Carbonate Suspension,Calcium
+0.7,Female,Vitamin D3 Drops (400 IU),Vitamin D
+1.5,Male,Calcimax P Suspension,Calcium
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+75,Female,Hydroxocobalamin Injection,Vitamin B12
+80.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.4,Female,Cyanocobalamin Tablets,Vitamin B12
+0.5,Female,Ultra-D3 Drops,Vitamin D
+4.2,Female,Ostocalcium B12 Syrup,Calcium
+36.7,Female,Elemental Iron + Vit C,Iron
+63.4,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Tonoferon Drops,Iron
+0.2,Female,Ultra-D3 Drops,Vitamin D
+29.4,Female,Ferrous Ascorbate Tablets,Iron
+0.2,Male,D3 Oral Drops,Vitamin D
+1.9,Female,Ostocalcium B12 Syrup,Calcium
+1.4,Female,Iron Syrups,Iron
+50.1,Female,D3 2K IU Capsules,Vitamin D
+57.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.8,Female,Calcium Carbonate Suspension,Calcium
+0.6,Female,D3 Oral Drops,Vitamin D
+67.2,Male,High-dose Calcium Carbonate,Calcium
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+58.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+25,Female,Ferrous Ascorbate Tablets,Iron
+4.8,Male,Ostocalcium B12 Syrup,Calcium
+0.6,Female,Vitamin D3 Drops (400 IU),Vitamin D
+88.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+79.8,Female,Shelcal 500,Calcium
+2.7,Male,Calcium Carbonate Suspension,Calcium
+3.6,Male,Calcium Carbonate Suspension,Calcium
+80.4,Male,Hydroxocobalamin Injection,Vitamin B12
+63.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.7,Female,D3 Oral Drops,Vitamin D
+13.8,Female,Ferrous Fumarate (322mg),Iron
+73.5,Female,Hydroxocobalamin Injection,Vitamin B12
+59.6,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+79.9,Female,Hydroxocobalamin Injection,Vitamin B12
+87.4,Male,Hydroxocobalamin Injection,Vitamin B12
+1,Male,Iron Syrups,Iron
+57.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.5,Male,D3 Oral Drops,Vitamin D
+3.6,Female,Ostocalcium B12 Syrup,Calcium
+0.6,Male,Ultra-D3 Drops,Vitamin D
+54.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+48.9,Male,Cyanocobalamin Tablets,Vitamin B12
+1.2,Female,Calcimax P Suspension,Calcium
+65.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+5,Male,Calcium Carbonate Suspension,Calcium
+76,Female,B12 Nasal Spray,Vitamin B12
+1.5,Female,Tonoferon Drops,Iron
+51.6,Female,Calcium Citrate + Magnesium,Calcium
+32.6,Female,Ferrous Ascorbate Tablets,Iron
+84,Female,High-dose Calcium Carbonate,Calcium
+2,Male,Iron Syrups,Iron
+54.4,Female,B12 Nasal Spray,Vitamin B12
+67.7,Female,Hydroxocobalamin Injection,Vitamin B12
+62.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1.2,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.8,Female,Vitamin D3 Drops (400 IU),Vitamin D
+40.3,Male,Cyanocobalamin Tablets,Vitamin B12
+2.5,Female,Calcimax P Suspension,Calcium
+1,Male,Ferrous Sulfate Pediatric Drops,Iron
+23.5,Female,Elemental Iron + Vit C,Iron
+83.1,Male,Calcium Citrate + Magnesium,Calcium
+1.9,Female,Tonoferon Drops,Iron
+33.7,Female,Ferrous Ascorbate Tablets,Iron
+24,Female,D3 2K IU Capsules,Vitamin D
+56.6,Female,Cyanocobalamin Tablets,Vitamin B12
+59.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.2,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+20.1,Female,B12 Nasal Spray,Vitamin B12
+3.3,Male,Calcium Carbonate Suspension,Calcium
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+22.5,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+22.7,Female,Elemental Iron + Vit C,Iron
+43.5,Female,D3 2K IU Capsules,Vitamin D
+2.3,Male,Calcium Carbonate Suspension,Calcium
+22.3,Male,Ergocalciferol (D2),Vitamin D
+28,Female,Elemental Iron + Vit C,Iron
+1,Male,Iron Syrups,Iron
+50.9,Female,High-dose Calcium Carbonate,Calcium
+76.2,Male,Hydroxocobalamin Injection,Vitamin B12
+72.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+43.8,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+23.2,Female,Ergocalciferol (D2),Vitamin D
+48.5,Male,D3 2K IU Capsules,Vitamin D
+79.4,Male,Shelcal 500,Calcium
+19.6,Female,D3 2K IU Capsules,Vitamin D
+66.1,Male,Cyanocobalamin Tablets,Vitamin B12
+59,Female,High-dose Calcium Carbonate,Calcium
+57.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.5,Male,Calcium Carbonate Suspension,Calcium
+81,Female,Calcium Citrate + Magnesium,Calcium
+52.9,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+57.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.1,Male,Ostocalcium B12 Syrup,Calcium
+1.3,Male,Ostocalcium B12 Syrup,Calcium
+56.8,Male,Calcium Citrate + Magnesium,Calcium
+43.7,Female,Elemental Iron + Vit C,Iron
+42,Female,Ferrous Fumarate (322mg),Iron
+80.8,Male,Hydroxocobalamin Injection,Vitamin B12
+84,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+69.2,Male,Shelcal 500,Calcium
+1.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+32.4,Male,D3 2K IU Capsules,Vitamin D
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+19.9,Female,Cyanocobalamin Tablets,Vitamin B12
+0.4,Male,D3 Oral Drops,Vitamin D
+3.4,Male,Ostocalcium B12 Syrup,Calcium
+53.5,Male,B12 Nasal Spray,Vitamin B12
+70.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+19.3,Female,Elemental Iron + Vit C,Iron
+1.7,Male,Tonoferon Drops,Iron
+86.1,Male,Hydroxocobalamin Injection,Vitamin B12
+81.5,Female,Hydroxocobalamin Injection,Vitamin B12
+3.8,Male,Calcimax P Suspension,Calcium
+42.5,Female,Elemental Iron + Vit C,Iron
+1,Male,Ferrous Sulfate Pediatric Drops,Iron
+31.8,Female,Ergocalciferol (D2),Vitamin D
+33,Female,Ferrous Ascorbate Tablets,Iron
+3.4,Male,Ostocalcium B12 Syrup,Calcium
+1.6,Female,Tonoferon Drops,Iron
+85.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.4,Male,Iron Syrups,Iron
+2.1,Male,Ostocalcium B12 Syrup,Calcium
+0.9,Female,Ultra-D3 Drops,Vitamin D
+1.8,Female,Iron Syrups,Iron
+61.9,Male,Hydroxocobalamin Injection,Vitamin B12
+47.3,Female,D3 2K IU Capsules,Vitamin D
+75.2,Female,Calcium Citrate + Magnesium,Calcium
+29.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+53.6,Male,Cyanocobalamin Tablets,Vitamin B12
+43.8,Male,B12 Nasal Spray,Vitamin B12
+2.3,Male,Calcium Carbonate Suspension,Calcium
+42.7,Female,Ferrous Fumarate (322mg),Iron
+26,Female,Ferrous Fumarate (322mg),Iron
+45.4,Female,Elemental Iron + Vit C,Iron
+80.6,Female,Calcium Citrate + Magnesium,Calcium
+0.6,Female,Ultra-D3 Drops,Vitamin D
+39.9,Female,Ferrous Ascorbate Tablets,Iron
+1.6,Female,Tonoferon Drops,Iron
+35.4,Female,Ergocalciferol (D2),Vitamin D
+73.5,Male,Hydroxocobalamin Injection,Vitamin B12
+18.1,Female,B12 Nasal Spray,Vitamin B12
+1.2,Female,Iron Syrups,Iron
+21.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.4,Female,Iron Syrups,Iron
+0.2,Female,Ultra-D3 Drops,Vitamin D
+1.7,Female,Ostocalcium B12 Syrup,Calcium
+77.6,Male,Hydroxocobalamin Injection,Vitamin B12
+1.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.6,Female,Iron Syrups,Iron
+0.4,Male,D3 Oral Drops,Vitamin D
+55,Male,B12 Nasal Spray,Vitamin B12
+71.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+37.1,Female,Ferrous Fumarate (322mg),Iron
+2,Male,Ferrous Sulfate Pediatric Drops,Iron
+37,Female,Elemental Iron + Vit C,Iron
+54.1,Female,B12 Nasal Spray,Vitamin B12
+74,Female,Shelcal 500,Calcium
+77.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+48.1,Male,Cyanocobalamin Tablets,Vitamin B12
+1.2,Male,Calcimax P Suspension,Calcium
+52.7,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+58.7,Male,Hydroxocobalamin Injection,Vitamin B12
+42.5,Female,Ferrous Ascorbate Tablets,Iron
+4,Female,Ostocalcium B12 Syrup,Calcium
+71.5,Male,B12 Nasal Spray,Vitamin B12
+4.4,Male,Calcimax P Suspension,Calcium
+4.7,Male,Ostocalcium B12 Syrup,Calcium
+20.2,Female,B12 Nasal Spray,Vitamin B12
+14.7,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.8,Male,Tonoferon Drops,Iron
+75,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.3,Male,Calcimax P Suspension,Calcium
+31.5,Female,Ferrous Ascorbate Tablets,Iron
+55.1,Female,High-dose Calcium Carbonate,Calcium
+61,Female,Calcium Citrate + Magnesium,Calcium
+0.9,Male,D3 Oral Drops,Vitamin D
+51.3,Male,D3 2K IU Capsules,Vitamin D
+40.5,Female,Ergocalciferol (D2),Vitamin D
+23.2,Female,Ferrous Ascorbate Tablets,Iron
+75,Male,Shelcal 500,Calcium
+79.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+2.3,Female,Calcium Carbonate Suspension,Calcium
+73.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+66.2,Male,Calcium Citrate + Magnesium,Calcium
+57.6,Female,Ergocalciferol (D2),Vitamin D
+36.8,Male,D3 2K IU Capsules,Vitamin D
+0.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+76.3,Male,B12 Nasal Spray,Vitamin B12
+42.3,Female,D3 2K IU Capsules,Vitamin D
+0.5,Female,D3 Oral Drops,Vitamin D
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.3,Male,Iron Syrups,Iron
+60.8,Male,Shelcal 500,Calcium
+25.6,Female,Cyanocobalamin Tablets,Vitamin B12
+34.5,Female,Ferrous Ascorbate Tablets,Iron
+62.6,Female,B12 Nasal Spray,Vitamin B12
+3.3,Female,Calcium Carbonate Suspension,Calcium
+3.4,Male,Ostocalcium B12 Syrup,Calcium
+82.6,Male,Hydroxocobalamin Injection,Vitamin B12
+25.3,Female,Ferrous Ascorbate Tablets,Iron
+70.9,Female,High-dose Calcium Carbonate,Calcium
+0.6,Female,Tonoferon Drops,Iron
+0.5,Male,Tonoferon Drops,Iron
+39.9,Female,Elemental Iron + Vit C,Iron
+57,Female,Shelcal 500,Calcium
+22.9,Female,Ferrous Ascorbate Tablets,Iron
+20.3,Female,B12 Nasal Spray,Vitamin B12
+41.8,Female,Ferrous Fumarate (322mg),Iron
+48.8,Female,Ferrous Fumarate (322mg),Iron
+18.9,Female,Ferrous Ascorbate Tablets,Iron
+2.5,Female,Ostocalcium B12 Syrup,Calcium
+81.6,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+27.9,Female,Ferrous Fumarate (322mg),Iron
+15.4,Female,Ferrous Ascorbate Tablets,Iron
+1.8,Female,Calcimax P Suspension,Calcium
+79,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+73.5,Male,B12 Nasal Spray,Vitamin B12
+1.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+79.3,Female,Hydroxocobalamin Injection,Vitamin B12
+3.2,Female,Calcium Carbonate Suspension,Calcium
+47.6,Female,Ergocalciferol (D2),Vitamin D
+86.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.4,Female,Iron Syrups,Iron
+1.8,Male,Calcimax P Suspension,Calcium
+32.3,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+37.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+42.8,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.4,Female,Vitamin D3 Drops (400 IU),Vitamin D
+2.1,Male,Calcium Carbonate Suspension,Calcium
+25.4,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+22.4,Female,Cyanocobalamin Tablets,Vitamin B12
+83.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+86.9,Female,Shelcal 500,Calcium
+0.2,Female,D3 Oral Drops,Vitamin D
+30.9,Female,D3 2K IU Capsules,Vitamin D
+24.4,Female,Ferrous Fumarate (322mg),Iron
+3.4,Male,Ostocalcium B12 Syrup,Calcium
+0.4,Female,Ultra-D3 Drops,Vitamin D
+83.6,Male,Calcium Citrate + Magnesium,Calcium
+35.3,Male,B12 Nasal Spray,Vitamin B12
+16.4,Female,D3 2K IU Capsules,Vitamin D
+77.3,Female,Calcium Citrate + Magnesium,Calcium
+63.7,Female,Calcium Citrate + Magnesium,Calcium
+75.4,Female,Cyanocobalamin Tablets,Vitamin B12
+65.8,Male,Shelcal 500,Calcium
+50.2,Female,D3 2K IU Capsules,Vitamin D
+70.9,Female,Calcium Citrate + Magnesium,Calcium
+1.5,Female,Tonoferon Drops,Iron
+0.2,Female,D3 Oral Drops,Vitamin D
+70.7,Female,High-dose Calcium Carbonate,Calcium
+13.6,Female,Ergocalciferol (D2),Vitamin D
+79.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+49,Female,B12 Nasal Spray,Vitamin B12
+52.6,Male,Calcium Citrate + Magnesium,Calcium
+67.8,Male,High-dose Calcium Carbonate,Calcium
+0.4,Female,D3 Oral Drops,Vitamin D
+72.8,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+69.7,Female,Calcium Citrate + Magnesium,Calcium
+1.8,Male,Calcium Carbonate Suspension,Calcium
+40.2,Female,Ferrous Fumarate (322mg),Iron
+43,Female,Ferrous Ascorbate Tablets,Iron
+0.3,Female,Ultra-D3 Drops,Vitamin D
+36.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.3,Female,D3 Oral Drops,Vitamin D
+54.4,Male,Ergocalciferol (D2),Vitamin D
+59.3,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.1,Female,D3 Oral Drops,Vitamin D
+74.1,Male,Hydroxocobalamin Injection,Vitamin B12
+1.2,Male,Iron Syrups,Iron
+74.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+23.5,Male,B12 Nasal Spray,Vitamin B12
+57.6,Female,Calcium Citrate + Magnesium,Calcium
+15.9,Female,Elemental Iron + Vit C,Iron
+25.3,Female,Ferrous Fumarate (322mg),Iron
+38.2,Male,Ergocalciferol (D2),Vitamin D
+50.5,Female,Shelcal 500,Calcium
+1.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.6,Male,Tonoferon Drops,Iron
+0.8,Female,Ultra-D3 Drops,Vitamin D
+78.4,Female,Calcium Citrate + Magnesium,Calcium
+16,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+3.4,Male,Calcimax P Suspension,Calcium
+1,Male,Calcium Carbonate Suspension,Calcium
+32.4,Female,Ergocalciferol (D2),Vitamin D
+71.7,Female,Hydroxocobalamin Injection,Vitamin B12
+88.6,Female,Hydroxocobalamin Injection,Vitamin B12
+79,Female,Calcium Citrate + Magnesium,Calcium
+19.8,Female,Elemental Iron + Vit C,Iron
+1,Female,Iron Syrups,Iron
+76.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.6,Male,Iron Syrups,Iron
+63,Female,Cyanocobalamin Tablets,Vitamin B12
+63,Male,High-dose Calcium Carbonate,Calcium
+62,Male,Shelcal 500,Calcium
+0.5,Female,Ultra-D3 Drops,Vitamin D
+44.1,Female,Ferrous Fumarate (322mg),Iron
+53.2,Female,Shelcal 500,Calcium
+0.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+1,Male,Tonoferon Drops,Iron
+4.3,Female,Calcium Carbonate Suspension,Calcium
+89.3,Male,Calcium Citrate + Magnesium,Calcium
+32,Female,B12 Nasal Spray,Vitamin B12
+56,Male,High-dose Calcium Carbonate,Calcium
+39.8,Female,Elemental Iron + Vit C,Iron
+31.9,Female,Cyanocobalamin Tablets,Vitamin B12
+1.7,Male,Tonoferon Drops,Iron
+4.5,Female,Ostocalcium B12 Syrup,Calcium
+0.6,Female,Ultra-D3 Drops,Vitamin D
+0.3,Male,D3 Oral Drops,Vitamin D
+53.3,Female,Calcium Citrate + Magnesium,Calcium
+87.6,Female,Hydroxocobalamin Injection,Vitamin B12
+2.2,Female,Calcium Carbonate Suspension,Calcium
+77,Female,Calcium Citrate + Magnesium,Calcium
+44.5,Female,Elemental Iron + Vit C,Iron
+34.1,Female,Ergocalciferol (D2),Vitamin D
+89.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.7,Male,Ostocalcium B12 Syrup,Calcium
+50.9,Female,Cyanocobalamin Tablets,Vitamin B12
+28,Male,Ergocalciferol (D2),Vitamin D
+85,Male,Calcium Citrate + Magnesium,Calcium
+83.8,Male,High-dose Calcium Carbonate,Calcium
+0,Female,D3 Oral Drops,Vitamin D
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+67.2,Female,Shelcal 500,Calcium
+2.6,Male,Calcium Carbonate Suspension,Calcium
+0.6,Female,D3 Oral Drops,Vitamin D
+89.9,Male,Calcium Citrate + Magnesium,Calcium
+0.6,Female,D3 Oral Drops,Vitamin D
+0.8,Male,D3 Oral Drops,Vitamin D
+88.2,Female,Calcium Citrate + Magnesium,Calcium
+64.1,Female,Calcium Citrate + Magnesium,Calcium
+86.3,Male,Hydroxocobalamin Injection,Vitamin B12
+0.2,Female,Vitamin D3 Drops (400 IU),Vitamin D
+79.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+79.1,Female,Calcium Citrate + Magnesium,Calcium
+45.9,Female,Elemental Iron + Vit C,Iron
+14.5,Female,Ergocalciferol (D2),Vitamin D
+2.7,Female,Calcium Carbonate Suspension,Calcium
+74.6,Female,Shelcal 500,Calcium
+0.5,Female,Vitamin D3 Drops (400 IU),Vitamin D
+73,Male,Shelcal 500,Calcium
+64.6,Female,High-dose Calcium Carbonate,Calcium
+20.7,Female,Ferrous Ascorbate Tablets,Iron
+55.9,Male,Ergocalciferol (D2),Vitamin D
+57.5,Male,Calcium Citrate + Magnesium,Calcium
+56.1,Male,Ergocalciferol (D2),Vitamin D
+2.9,Female,Calcimax P Suspension,Calcium
+0.8,Female,Tonoferon Drops,Iron
+1.2,Male,Ostocalcium B12 Syrup,Calcium
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.4,Male,D3 Oral Drops,Vitamin D
+74.3,Male,Hydroxocobalamin Injection,Vitamin B12
+14.9,Female,D3 2K IU Capsules,Vitamin D
+39.2,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.4,Male,D3 Oral Drops,Vitamin D
+57,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+57.5,Female,High-dose Calcium Carbonate,Calcium
+0.8,Female,Iron Syrups,Iron
+1.1,Female,Calcimax P Suspension,Calcium
+12.1,Female,Ferrous Ascorbate Tablets,Iron
+4.4,Female,Calcimax P Suspension,Calcium
+44.8,Male,D3 2K IU Capsules,Vitamin D
+29.5,Male,B12 Nasal Spray,Vitamin B12
+30.9,Male,D3 2K IU Capsules,Vitamin D
+1.7,Male,Calcium Carbonate Suspension,Calcium
+82.8,Female,Shelcal 500,Calcium
+54,Female,Shelcal 500,Calcium
+0.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+0.5,Female,Vitamin D3 Drops (400 IU),Vitamin D
+42.3,Female,Ergocalciferol (D2),Vitamin D
+66.3,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+21.8,Female,Ferrous Ascorbate Tablets,Iron
+0.7,Female,Ferrous Sulfate Pediatric Drops,Iron
+24.6,Female,Elemental Iron + Vit C,Iron
+0.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+73,Female,Shelcal 500,Calcium
+54.1,Male,Shelcal 500,Calcium
+48.1,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+55.4,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+17.5,Female,D3 2K IU Capsules,Vitamin D
+83.3,Female,Calcium Citrate + Magnesium,Calcium
+1.2,Female,Iron Syrups,Iron
+58.4,Female,Ergocalciferol (D2),Vitamin D
+88,Female,Shelcal 500,Calcium
+1.1,Female,Calcimax P Suspension,Calcium
+74.1,Female,Cyanocobalamin Tablets,Vitamin B12
+62.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+69.2,Female,High-dose Calcium Carbonate,Calcium
+74.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+81.4,Female,Hydroxocobalamin Injection,Vitamin B12
+61.6,Male,Calcium Citrate + Magnesium,Calcium
+71.1,Male,Shelcal 500,Calcium
+0.8,Female,D3 Oral Drops,Vitamin D
+82.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Iron Syrups,Iron
+24.8,Female,Elemental Iron + Vit C,Iron
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+82.4,Female,Calcium Citrate + Magnesium,Calcium
+1.2,Female,Ostocalcium B12 Syrup,Calcium
+0.7,Male,D3 Oral Drops,Vitamin D
+59.6,Male,Calcium Citrate + Magnesium,Calcium
+81,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+38.2,Male,D3 2K IU Capsules,Vitamin D
+29,Male,D3 2K IU Capsules,Vitamin D
+0.9,Female,Vitamin D3 Drops (400 IU),Vitamin D
+50.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+55.3,Male,Hydroxocobalamin Injection,Vitamin B12
+13,Female,Ferrous Fumarate (322mg),Iron
+0.8,Male,Tonoferon Drops,Iron
+2.8,Female,Calcimax P Suspension,Calcium
+65.3,Female,Shelcal 500,Calcium
+85.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+64,Female,Shelcal 500,Calcium
+27.8,Female,Elemental Iron + Vit C,Iron
+56.3,Male,B12 Nasal Spray,Vitamin B12
+53.9,Female,Shelcal 500,Calcium
+89.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+3.9,Male,Ostocalcium B12 Syrup,Calcium
+35.3,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+65,Male,Calcium Citrate + Magnesium,Calcium
+4.2,Female,Calcimax P Suspension,Calcium
+0.5,Male,D3 Oral Drops,Vitamin D
+0.5,Female,Ferrous Sulfate Pediatric Drops,Iron
+16.2,Male,Ergocalciferol (D2),Vitamin D
+1.9,Female,Iron Syrups,Iron
+0.1,Male,Ultra-D3 Drops,Vitamin D
+2.2,Female,Calcimax P Suspension,Calcium
+48.7,Male,Cyanocobalamin Tablets,Vitamin B12
+63.7,Male,Calcium Citrate + Magnesium,Calcium
+16.2,Female,Ferrous Ascorbate Tablets,Iron
+35.7,Female,Ferrous Ascorbate Tablets,Iron
+50.6,Male,Calcium Citrate + Magnesium,Calcium
+44.1,Female,Elemental Iron + Vit C,Iron
+0.5,Male,D3 Oral Drops,Vitamin D
+1.4,Female,Ostocalcium B12 Syrup,Calcium
+66.6,Male,High-dose Calcium Carbonate,Calcium
+1.9,Male,Ostocalcium B12 Syrup,Calcium
+0.2,Male,Vitamin D3 Drops (400 IU),Vitamin D
+83,Male,Calcium Citrate + Magnesium,Calcium
+62.3,Male,High-dose Calcium Carbonate,Calcium
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+83.1,Female,Calcium Citrate + Magnesium,Calcium
+0.6,Female,Vitamin D3 Drops (400 IU),Vitamin D
+89.1,Female,Calcium Citrate + Magnesium,Calcium
+0.4,Male,Ultra-D3 Drops,Vitamin D
+22.7,Female,D3 2K IU Capsules,Vitamin D
+3.5,Male,Calcimax P Suspension,Calcium
+27,Female,Ferrous Fumarate (322mg),Iron
+35.5,Male,D3 2K IU Capsules,Vitamin D
+79.7,Female,High-dose Calcium Carbonate,Calcium
+1.7,Female,Ostocalcium B12 Syrup,Calcium
+52.4,Female,Cyanocobalamin Tablets,Vitamin B12
+22.7,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+0.2,Female,Ultra-D3 Drops,Vitamin D
+55,Male,High-dose Calcium Carbonate,Calcium
+4.6,Male,Calcimax P Suspension,Calcium
+51,Male,Shelcal 500,Calcium
+0.1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+55.5,Female,Shelcal 500,Calcium
+44.6,Male,Cyanocobalamin Tablets,Vitamin B12
+4.5,Male,Calcium Carbonate Suspension,Calcium
+75.1,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+46.7,Female,Ferrous Ascorbate Tablets,Iron
+42.4,Male,Cyanocobalamin Tablets,Vitamin B12
+56.3,Female,D3 2K IU Capsules,Vitamin D
+34.1,Female,Ferrous Fumarate (322mg),Iron
+45.1,Male,Ergocalciferol (D2),Vitamin D
+0.3,Female,Ultra-D3 Drops,Vitamin D
+69.8,Male,High-dose Calcium Carbonate,Calcium
+83.7,Female,Hydroxocobalamin Injection,Vitamin B12
+49.1,Female,Ergocalciferol (D2),Vitamin D
+27.6,Female,Ferrous Ascorbate Tablets,Iron
+42.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+65.5,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+39,Female,Ferrous Ascorbate Tablets,Iron
+58.1,Female,Calcium Citrate + Magnesium,Calcium
+3,Male,Ostocalcium B12 Syrup,Calcium
+1.1,Male,Ferrous Sulfate Pediatric Drops,Iron
+36.2,Female,B12 Nasal Spray,Vitamin B12
+42.5,Female,Elemental Iron + Vit C,Iron
+74.4,Male,Calcium Citrate + Magnesium,Calcium
+80.9,Female,High-dose Calcium Carbonate,Calcium
+4.7,Male,Calcium Carbonate Suspension,Calcium
+0.7,Female,Iron Syrups,Iron
+2.7,Male,Calcium Carbonate Suspension,Calcium
+0.7,Female,D3 Oral Drops,Vitamin D
+20.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+3.3,Female,Calcium Carbonate Suspension,Calcium
+32.8,Female,Ferrous Ascorbate Tablets,Iron
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+69.4,Female,High-dose Calcium Carbonate,Calcium
+1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+23.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+59.5,Female,Cyanocobalamin Tablets,Vitamin B12
+24.1,Male,D3 2K IU Capsules,Vitamin D
+29.9,Male,B12 Nasal Spray,Vitamin B12
+36.8,Female,B12 Nasal Spray,Vitamin B12
+2,Female,Ostocalcium B12 Syrup,Calcium
+0.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.8,Male,Iron Syrups,Iron
+0.8,Female,Tonoferon Drops,Iron
+80.1,Male,Shelcal 500,Calcium
+60.2,Female,Hydroxocobalamin Injection,Vitamin B12
+20.8,Female,Ferrous Ascorbate Tablets,Iron
+68.3,Male,Shelcal 500,Calcium
+54.8,Male,D3 2K IU Capsules,Vitamin D
+39.3,Female,Ferrous Fumarate (322mg),Iron
+70.9,Male,Hydroxocobalamin Injection,Vitamin B12
+1,Male,Vitamin D3 Drops (400 IU),Vitamin D
+0.8,Female,D3 Oral Drops,Vitamin D
+1.3,Female,Iron Syrups,Iron
+1.9,Male,Ostocalcium B12 Syrup,Calcium
+14.2,Female,Elemental Iron + Vit C,Iron
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+18.6,Female,D3 2K IU Capsules,Vitamin D
+73.8,Male,Hydroxocobalamin Injection,Vitamin B12
+78.8,Female,B12 Nasal Spray,Vitamin B12
+0.7,Female,D3 Oral Drops,Vitamin D
+1.9,Male,Calcium Carbonate Suspension,Calcium
+82.8,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+30.3,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+87.4,Female,Shelcal 500,Calcium
+75.9,Female,Hydroxocobalamin Injection,Vitamin B12
+62.6,Female,Hydroxocobalamin Injection,Vitamin B12
+3.6,Male,Ostocalcium B12 Syrup,Calcium
+52.6,Female,Shelcal 500,Calcium
+36.4,Male,Ergocalciferol (D2),Vitamin D
+2.3,Male,Ostocalcium B12 Syrup,Calcium
+82.6,Female,Shelcal 500,Calcium
+55.8,Female,High-dose Calcium Carbonate,Calcium
+43.9,Female,Ferrous Ascorbate Tablets,Iron
+56.9,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+76.2,Female,Hydroxocobalamin Injection,Vitamin B12
+48.1,Male,B12 Nasal Spray,Vitamin B12
+46.2,Female,Ergocalciferol (D2),Vitamin D
+79.6,Male,Calcium Citrate + Magnesium,Calcium
+82,Female,Shelcal 500,Calcium
+74.4,Female,High-dose Calcium Carbonate,Calcium
+83.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+72.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+33.9,Female,Ergocalciferol (D2),Vitamin D
+0.1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+43.9,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.5,Female,Iron Syrups,Iron
+81.1,Female,Hydroxocobalamin Injection,Vitamin B12
+76.8,Female,Cyanocobalamin Tablets,Vitamin B12
+34.5,Female,B12 Nasal Spray,Vitamin B12
+52.9,Female,Cyanocobalamin Tablets,Vitamin B12
+34.8,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+78.9,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+31,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.1,Female,Ferrous Sulfate Pediatric Drops,Iron
+4,Male,Calcimax P Suspension,Calcium
+85,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.1,Female,D3 Oral Drops,Vitamin D
+31.8,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+64.5,Male,High-dose Calcium Carbonate,Calcium
+1.2,Female,Tonoferon Drops,Iron
+0.6,Male,Ultra-D3 Drops,Vitamin D
+14.9,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+34.3,Female,Ferrous Fumarate (322mg),Iron
+3.3,Male,Calcium Carbonate Suspension,Calcium
+53.6,Female,Shelcal 500,Calcium
+72.7,Female,High-dose Calcium Carbonate,Calcium
+85.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+40,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+50.4,Female,D3 2K IU Capsules,Vitamin D
+51.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.1,Male,Calcium Carbonate Suspension,Calcium
+0,Female,Vitamin D3 Drops (400 IU),Vitamin D
+63.7,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+39.8,Female,Elemental Iron + Vit C,Iron
+53.3,Male,Calcium Citrate + Magnesium,Calcium
+1.9,Female,Tonoferon Drops,Iron
+16.9,Female,D3 2K IU Capsules,Vitamin D
+20.3,Female,Elemental Iron + Vit C,Iron
+12.3,Female,Ferrous Ascorbate Tablets,Iron
+1.8,Male,Tonoferon Drops,Iron
+23.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+3.8,Male,Ostocalcium B12 Syrup,Calcium
+56.1,Male,Hydroxocobalamin Injection,Vitamin B12
+57.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Female,D3 Oral Drops,Vitamin D
+75.1,Male,Cyanocobalamin Tablets,Vitamin B12
+72.3,Female,High-dose Calcium Carbonate,Calcium
+15.4,Female,Ferrous Fumarate (322mg),Iron
+66.3,Female,Calcium Citrate + Magnesium,Calcium
+4.4,Male,Calcimax P Suspension,Calcium
+56.2,Male,Cyanocobalamin Tablets,Vitamin B12
+78.3,Female,Shelcal 500,Calcium
+74.9,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+22.3,Female,Cyanocobalamin Tablets,Vitamin B12
+71.8,Male,Hydroxocobalamin Injection,Vitamin B12
+56.7,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Male,Vitamin D3 Drops (400 IU),Vitamin D
+1.9,Male,Ferrous Sulfate Pediatric Drops,Iron
+45.3,Female,Elemental Iron + Vit C,Iron
+0.4,Male,Tonoferon Drops,Iron
+1.8,Male,Ferrous Sulfate Pediatric Drops,Iron
+35.2,Female,Elemental Iron + Vit C,Iron
+76.9,Male,Hydroxocobalamin Injection,Vitamin B12
+1.1,Male,Calcium Carbonate Suspension,Calcium
+1.2,Male,Ferrous Sulfate Pediatric Drops,Iron
+64.5,Male,B12 Nasal Spray,Vitamin B12
+42.7,Female,Ferrous Ascorbate Tablets,Iron
+52.9,Female,B12 Nasal Spray,Vitamin B12
+0.8,Female,D3 Oral Drops,Vitamin D
+82.1,Female,Hydroxocobalamin Injection,Vitamin B12
+0.9,Female,Iron Syrups,Iron
+0.2,Male,Ultra-D3 Drops,Vitamin D
+69.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+29.8,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+75.7,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+13,Female,Elemental Iron + Vit C,Iron
+0.7,Male,Iron Syrups,Iron
+0.8,Female,Vitamin D3 Drops (400 IU),Vitamin D
+2.1,Female,Calcimax P Suspension,Calcium
+1.8,Male,Iron Syrups,Iron
+71.4,Male,Shelcal 500,Calcium
+78.8,Male,Hydroxocobalamin Injection,Vitamin B12
+53.3,Male,High-dose Calcium Carbonate,Calcium
+3.4,Female,Calcimax P Suspension,Calcium
+1,Female,Vitamin D3 Drops (400 IU),Vitamin D
+4.7,Female,Ostocalcium B12 Syrup,Calcium
+21.8,Male,D3 2K IU Capsules,Vitamin D
+0,Male,D3 Oral Drops,Vitamin D
+0.8,Male,Vitamin D3 Drops (400 IU),Vitamin D
+74.5,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+1.8,Female,Ostocalcium B12 Syrup,Calcium
+0.7,Male,Ultra-D3 Drops,Vitamin D
+41.4,Female,B12 Nasal Spray,Vitamin B12
+22.9,Male,D3 2K IU Capsules,Vitamin D
+47.2,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+21.3,Male,Ergocalciferol (D2),Vitamin D
+49.2,Female,B12 Nasal Spray,Vitamin B12
+1.6,Male,Ferrous Sulfate Pediatric Drops,Iron
+21.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+35.8,Female,Ferrous Ascorbate Tablets,Iron
+1.1,Female,Ferrous Sulfate Pediatric Drops,Iron
+0.3,Male,Ultra-D3 Drops,Vitamin D
+65.3,Male,High-dose Calcium Carbonate,Calcium
+76,Female,Calcium Citrate + Magnesium,Calcium
+70,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+50.7,Male,Shelcal 500,Calcium
+1.5,Female,Calcimax P Suspension,Calcium
+71.5,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+42.3,Female,Elemental Iron + Vit C,Iron
+1.7,Female,Iron Syrups,Iron
+72.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+33.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+1.3,Male,Tonoferon Drops,Iron
+37.9,Female,Elemental Iron + Vit C,Iron
+34.2,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+53,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+58.5,Male,Hydroxocobalamin Injection,Vitamin B12
+17.4,Female,Ferrous Ascorbate Tablets,Iron
+0.6,Female,Iron Syrups,Iron
+26.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+2.3,Female,Calcium Carbonate Suspension,Calcium
+67.1,Male,Shelcal 500,Calcium
+36.7,Male,B12 Nasal Spray,Vitamin B12
+73.4,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+33.9,Female,Ferrous Ascorbate Tablets,Iron
+42.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+70.6,Female,Shelcal 500,Calcium
+71.9,Female,High-dose Calcium Carbonate,Calcium
+31.1,Female,Elemental Iron + Vit C,Iron
+65.9,Male,Calcium Citrate + Magnesium,Calcium
+0.7,Male,Iron Syrups,Iron
+67.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.3,Male,D3 Oral Drops,Vitamin D
+78.8,Female,B12 Nasal Spray,Vitamin B12
+70.8,Male,Calcium Citrate + Magnesium,Calcium
+77.3,Female,Hydroxocobalamin Injection,Vitamin B12
+0.3,Female,D3 Oral Drops,Vitamin D
+45,Female,Ferrous Fumarate (322mg),Iron
+50.1,Male,B12 Nasal Spray,Vitamin B12
+26.7,Female,Elemental Iron + Vit C,Iron
+1.5,Male,Iron Syrups,Iron
+68.2,Female,Hydroxocobalamin Injection,Vitamin B12
+37.2,Female,Ferrous Fumarate (322mg),Iron
+2.7,Female,Calcimax P Suspension,Calcium
+1.5,Male,Iron Syrups,Iron
+22.6,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+48.3,Female,Elemental Iron + Vit C,Iron
+48.6,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+56.8,Female,D3 2K IU Capsules,Vitamin D
+48.8,Female,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+68.3,Female,Shelcal 500,Calcium
+30.5,Female,Ergocalciferol (D2),Vitamin D
+71.3,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+0.9,Male,Ultra-D3 Drops,Vitamin D
+0.4,Male,Ultra-D3 Drops,Vitamin D
+55.9,Female,Shelcal 500,Calcium
+38.8,Female,Ergocalciferol (D2),Vitamin D
+85.7,Male,Shelcal 500,Calcium
+0.9,Male,Vitamin D3 Drops (400 IU),Vitamin D
+41.1,Female,Elemental Iron + Vit C,Iron
+85.3,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+65.7,Male,Shelcal 500,Calcium
+26.1,Female,Ferrous Ascorbate Tablets,Iron
+0.5,Female,D3 Oral Drops,Vitamin D
+4.9,Male,Ostocalcium B12 Syrup,Calcium
+2,Male,Ferrous Sulfate Pediatric Drops,Iron
+15.6,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+38.6,Male,D3 2K IU Capsules,Vitamin D
+49.2,Female,B12 Nasal Spray,Vitamin B12
+52.8,Female,B12 Nasal Spray,Vitamin B12
+1.4,Female,Iron Syrups,Iron
+2,Male,Iron Syrups,Iron
+32.8,Male,Cyanocobalamin Tablets,Vitamin B12
+68.8,Male,Hydroxocobalamin Injection,Vitamin B12
+54.1,Male,Ergocalciferol (D2),Vitamin D
+43,Female,Elemental Iron + Vit C,Iron
+51.1,Female,D3 2K IU Capsules,Vitamin D
+46.4,Female,Ferrous Fumarate (322mg),Iron
+71.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+4.6,Male,Ostocalcium B12 Syrup,Calcium
+1,Female,Calcimax P Suspension,Calcium
+1.4,Female,Ferrous Sulfate Pediatric Drops,Iron
+20.5,Male,Ergocalciferol (D2),Vitamin D
+1.9,Male,Calcium Carbonate Suspension,Calcium
+61.9,Male,High-dose Calcium Carbonate,Calcium
+66.9,Female,Calcium Citrate + Magnesium,Calcium
+57.9,Female,Calcium Citrate + Magnesium,Calcium
+1.9,Male,Calcimax P Suspension,Calcium
+71.6,Male,Calcium Citrate + Magnesium,Calcium
+35.9,Female,Ferrous Fumarate (322mg),Iron
+1,Male,Tonoferon Drops,Iron
+42,Female,Elemental Iron + Vit C,Iron
+56.7,Male,High-dose Calcium Carbonate,Calcium
+0.9,Male,Iron Syrups,Iron
+60.6,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+1,Female,Ferrous Sulfate Pediatric Drops,Iron
+3.7,Female,Ostocalcium B12 Syrup,Calcium
+26.7,Female,Ferrous Ascorbate Tablets,Iron
+16.7,Female,Ferrous Ascorbate Tablets,Iron
+0.9,Female,Ferrous Sulfate Pediatric Drops,Iron
+27.7,Female,D3 2K IU Capsules,Vitamin D
+54.2,Female,Ergocalciferol (D2),Vitamin D
+54.4,Male,Calcium Citrate + Magnesium,Calcium
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+27.4,Female,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+58.4,Female,Hydroxocobalamin Injection,Vitamin B12
+16.9,Female,Ferrous Fumarate (322mg),Iron
+2.8,Male,Calcimax P Suspension,Calcium
+40.7,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+0.8,Male,Iron Syrups,Iron
+68.3,Male,Shelcal 500,Calcium
+13,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+76.2,Male,Hydroxocobalamin Injection,Vitamin B12
+80.5,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+21,Female,D3 2K IU Capsules,Vitamin D
+64.6,Female,Hydroxocobalamin Injection,Vitamin B12
+32.2,Female,Ferrous Fumarate (322mg),Iron
+77.6,Female,Shelcal 500,Calcium
+24.7,Female,Elemental Iron + Vit C,Iron
+40.8,Female,Ferrous Fumarate (322mg),Iron
+62.6,Female,Calcium Citrate + Magnesium,Calcium
+0.8,Male,D3 Oral Drops,Vitamin D
+88.5,Male,Hydroxocobalamin Injection,Vitamin B12
+0.5,Female,Ultra-D3 Drops,Vitamin D
+68.5,Male,Shelcal 500,Calcium
+0.7,Male,Ultra-D3 Drops,Vitamin D
+76.8,Male,Shelcal 500,Calcium
+1.8,Female,Tonoferon Drops,Iron
+86,Female,Hydroxocobalamin Injection,Vitamin B12
+65.3,Female,Cyanocobalamin Tablets,Vitamin B12
+18.5,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+20.5,Female,Ferrous Fumarate (322mg),Iron
+0.8,Female,Ferrous Sulfate Pediatric Drops,Iron
+59.6,Male,High-dose Calcium Carbonate,Calcium
+38.5,Female,B12 Nasal Spray,Vitamin B12
+47.1,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+62.4,Male,Hydroxocobalamin Injection,Vitamin B12
+0.8,Female,Tonoferon Drops,Iron
+19.9,Male,Ergocalciferol (D2),Vitamin D
+55.2,Female,Cyanocobalamin Injection (1000mcg),Vitamin B12
+30.7,Male,Ergocalciferol (D2),Vitamin D
+12.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+45.2,Female,Elemental Iron + Vit C,Iron
+3.1,Female,Calcium Carbonate Suspension,Calcium
+1.4,Female,Tonoferon Drops,Iron
+49.5,Female,Ergocalciferol (D2),Vitamin D
+3,Male,Calcium Carbonate Suspension,Calcium
+49.8,Male,Ergocalciferol (D2),Vitamin D
+69.1,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+70.2,Male,Cyanocobalamin Injection (1000mcg),Vitamin B12
+15.4,Male,"Cholecalciferol (60,000 IU) Softgel",Vitamin D
+49.3,Female,D3 2K IU Capsules,Vitamin D
+54,Female,D3 2K IU Capsules,Vitamin D
+0.4,Male,Vitamin D3 Drops (400 IU),Vitamin D
+73.2,Male,Methylcobalamin (1500mcg) Sublingual,Vitamin B12
+45.1,Female,Ferrous Ascorbate Tablets,Iron
+34,Female,Ergocalciferol (D2),Vitamin D
+67.4,Female,Hydroxocobalamin Injection,Vitamin B12
+77.1,Male,Calcium Citrate + Magnesium,Calcium
+35.4,Female,Ferrous Fumarate (322mg),Iron
+4.8,Male,Calcimax P Suspension,Calcium
+19,Female,D3 2K IU Capsules,Vitamin D

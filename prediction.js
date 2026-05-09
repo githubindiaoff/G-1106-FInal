@@ -1,5 +1,29 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+    // Mode Toggle Logic
+    const modeTabsContainer = document.getElementById('modeTabs');
+    const modeReportBtn = document.getElementById('modeReportBtn');
+    const modePrescriptionBtn = document.getElementById('modePrescriptionBtn');
+    const conditionContainer = document.getElementById('condition-container');
+    let currentMode = 'report';
+
+    if (modeReportBtn && modePrescriptionBtn) {
+        modeReportBtn.addEventListener('click', () => {
+            currentMode = 'report';
+            modeTabsContainer.removeAttribute('data-active');
+            modeReportBtn.classList.add('active');
+            modePrescriptionBtn.classList.remove('active');
+            if (conditionContainer) conditionContainer.style.display = 'flex';
+        });
+        modePrescriptionBtn.addEventListener('click', () => {
+            currentMode = 'prescription';
+            modeTabsContainer.setAttribute('data-active', 'prescription');
+            modePrescriptionBtn.classList.add('active');
+            modeReportBtn.classList.remove('active');
+            if (conditionContainer) conditionContainer.style.display = 'none';
+        });
+    }
+
     // Gender/Condition logic
     const genderSelect = document.getElementById('patient-gender');
     const conditionSelect = document.getElementById('patient-condition');
@@ -171,6 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Real API Call via fetch
         const formData = new FormData();
+        formData.append('mode', currentMode);
         formData.append('age', userAge);
         formData.append('gender', userGender);
         formData.append('condition', userCondition);
@@ -254,9 +279,29 @@ document.addEventListener('DOMContentLoaded', () => {
             mainBadge.className = 'badge large-badge status-severe';
         }
 
-        // Detailed Table
         const tbody = document.getElementById('nutrient-table-body');
         tbody.innerHTML = ''; // Clear previous
+
+        if (currentMode === 'prescription') {
+            const medication = data.extracted_values['Medication Detected'] || 'Unknown';
+            const targetRisk = data.extracted_values['Target Risk'] || 'Unknown';
+            
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>Detected Medication</td>
+                <td><strong>${medication}</strong></td>
+                <td>N/A</td>
+                <td><span class="status-badge status-severe">Risk Detected</span></td>
+                <td>Target Risk: ${targetRisk} Deficiency</td>
+            `;
+            tbody.appendChild(tr);
+
+            // Modify Summary Text
+            document.getElementById('summary-text').textContent = `The prescription indicates usage of ${medication}, which is known to be associated with ${targetRisk} deficiency risk.`;
+            document.getElementById('recommendation-text').textContent = `Recommendation: Close monitoring of ${targetRisk} levels is advised. Consult a physician for supplementation if needed.`;
+            
+            return; // Skip the rest of the lab report rendering
+        }
 
         const references = {
             "Vitamin D": { range: "20 - 50 ng/mL", desc: "Bone health, immune function" },
@@ -355,7 +400,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const opt = {
                 margin:       0.5,
-                filename:     'NutriDetector_Report.pdf',
+                filename:     'NutraDetector_Report.pdf',
                 image:        { type: 'jpeg', quality: 0.98 },
                 html2canvas:  { scale: 2, useCORS: true, scrollY: 0, scrollX: 0, windowWidth: document.documentElement.scrollWidth },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }

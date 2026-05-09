@@ -6,6 +6,7 @@ import time
 import io
 import re
 import pickle
+import joblib
 import numpy as np
 import pytesseract
 from PIL import Image
@@ -58,6 +59,46 @@ try:
 except Exception as e:
     print(f"Warning: Failed to load local model/scaler: {e}")
     model = None
+
+# --- Prescription Model Loading ---
+class PrescriptionClassifier(nn.Module):
+    def __init__(self, input_dim, output_dim):
+        super(PrescriptionClassifier, self).__init__()
+        self.network = nn.Sequential(
+            nn.Linear(input_dim, 64),
+            nn.ReLU(),
+            nn.Dropout(0.2),
+            nn.Linear(64, 32),
+            nn.ReLU(),
+            nn.Linear(32, output_dim)
+        )
+    def forward(self, x):
+        return self.network(x)
+
+PRES_MODEL_PATH = "model2/nutra_classifier_v1 (1).pth"
+MED_ENC_PATH = "model2/medication_encoder.pkl"
+GENDER_ENC_PATH = "model2/gender_encoder.pkl"
+TARGET_ENC_PATH = "model2/target_encoder.pkl"
+SCALER2_PATH = "model2/scaler (1).pkl"
+
+pres_model = None
+med_encoder = None
+gender_encoder = None
+target_encoder = None
+scaler2 = None
+
+try:
+    med_encoder = joblib.load(MED_ENC_PATH)
+    gender_encoder = joblib.load(GENDER_ENC_PATH)
+    target_encoder = joblib.load(TARGET_ENC_PATH)
+    scaler2 = joblib.load(SCALER2_PATH)
+    
+    pres_model = PrescriptionClassifier(input_dim=3, output_dim=len(target_encoder.classes_)).to(device)
+    pres_model.load_state_dict(torch.load(PRES_MODEL_PATH, map_location=device, weights_only=True))
+    pres_model.eval()
+    print("Prescription model and encoders loaded successfully.")
+except Exception as e:
+    print(f"Warning: Failed to load prescription model/encoders: {e}")
 
 @app.route("/signup", methods=["POST"])
 def signup():
@@ -141,6 +182,49 @@ def predict_deficiency():
 
     if not extracted_text.strip():
         extracted_text = "Empty sample submitted."
+
+    mode = request.form.get("mode", "report")
+
+    if mode == 'prescription':
+        clean_text_pres = " ".join(extracted_text.split()).lower()
+        clean_text_pres_no_space = clean_text_pres.replace(" ", "")
+        detected_med = None
+        if med_encoder is not None:
+            for med in med_encoder.classes_:
+                if med.lower() in clean_text_pres or med.lower().replace(" ", "") in clean_text_pres_no_space:
+                    detected_med = med
+                    break
+        
+        if not detected_med:
+             return jsonify({"error": "No known medication detected in the prescription. Please upload a clear prescription."}), 400
+
+        try:
+            gender_val = 'Male' if gender.upper() == 'M' else 'Female'
+            g_encoded = gender_encoder.transform([gender_val])[0]
+            m_encoded = med_encoder.transform([detected_med])[0]
+            
+            raw_input = np.array([[age, g_encoded, m_encoded]])
+            input_scaled = scaler2.transform(raw_input)
+            input_tensor = torch.FloatTensor(input_scaled).to(device)
+
+            with torch.no_grad():
+                logits = pres_model(input_tensor)
+                pred_idx = torch.argmax(logits, dim=1).item()
+            
+            target_risk = target_encoder.inverse_transform([pred_idx])[0]
+        except Exception as e:
+            print(f"Prescription Inference error: {e}")
+            return jsonify({"error": "Failed to process prescription."}), 500
+
+        response = {
+            "extracted_values": {
+                "Medication Detected": detected_med,
+                "Target Risk": target_risk
+            },
+            "predicted_deficiency": f"High Risk: {target_risk} Deficiency",
+            "nutrient_status": {}
+        }
+        return jsonify(response)
 
     # 2. Extract labs using regex
     # Added Q, D, and @ to handles slashed/dotted zeros in programming fonts
