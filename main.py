@@ -163,15 +163,14 @@ def predict_deficiency():
             else:
                 image = Image.open(io.BytesIO(contents))
                 
-                # Image preprocessing for better OCR (grayscale + upscale)
-                image = image.convert('L')
-                image = image.resize((image.width * 2, image.height * 2), Image.Resampling.LANCZOS)
+                # Image preprocessing for better OCR
+                image = image.convert('RGB')
                 
                 # Run local OCR
                 print("Running pytesseract OCR on uploaded image...")
-                # Whitelist characters to numbers, letters, and basic punctuation to avoid things like AIS for 115
-                config = r'-c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.-: --psm 6'
-                extracted_text = pytesseract.image_to_string(image, config=config)
+                # Use --psm 11 to extract as much sparse text as possible anywhere on the page, 
+                # ignoring table structures since we flatten the text for regex matching perfectly.
+                extracted_text = pytesseract.image_to_string(image, config=r'--psm 11')
                 print(f"OCR extracted text: {extracted_text[:100]}...") # Print preview
         except Exception as e:
             return jsonify({"error": f"OCR Processing failed: {str(e)}"}), 400
