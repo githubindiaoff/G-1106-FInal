@@ -1,28 +1,32 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    // Mode Toggle Logic
-    const modeTabsContainer = document.getElementById('modeTabs');
+    // ===== MODE SELECTOR LOGIC =====
+    let currentMode = 'report'; // Default mode
     const modeReportBtn = document.getElementById('modeReportBtn');
     const modePrescriptionBtn = document.getElementById('modePrescriptionBtn');
-    const conditionContainer = document.getElementById('condition-container');
-    let currentMode = 'report';
+    const inputTabs = document.querySelector('.input-tabs');
 
-    if (modeReportBtn && modePrescriptionBtn) {
-        modeReportBtn.addEventListener('click', () => {
-            currentMode = 'report';
-            modeTabsContainer.removeAttribute('data-active');
+    const switchMode = (mode) => {
+        currentMode = mode;
+        
+        // Update buttons
+        if (mode === 'report') {
             modeReportBtn.classList.add('active');
             modePrescriptionBtn.classList.remove('active');
-            if (conditionContainer) conditionContainer.style.display = 'flex';
-        });
-        modePrescriptionBtn.addEventListener('click', () => {
-            currentMode = 'prescription';
-            modeTabsContainer.setAttribute('data-active', 'prescription');
-            modePrescriptionBtn.classList.add('active');
+            
+            // Optionally update placeholders directly
+            document.getElementById('clinical-notes').placeholder = "Paste clinical note or lab report text here...";
+        } else {
             modeReportBtn.classList.remove('active');
-            if (conditionContainer) conditionContainer.style.display = 'none';
-        });
-    }
+            modePrescriptionBtn.classList.add('active');
+            
+            // Optionally update placeholders directly
+            document.getElementById('clinical-notes').placeholder = "Paste prescription text here...";
+        }
+    };
+
+    modeReportBtn.addEventListener('click', () => switchMode('report'));
+    modePrescriptionBtn.addEventListener('click', () => switchMode('prescription'));
 
     // Gender/Condition logic
     const genderSelect = document.getElementById('patient-gender');
@@ -176,11 +180,12 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        const hasText = textArea.value.trim().length > 0;
+        const hasText = document.getElementById('clinical-notes').value.trim().length > 0;
+        const fileInput = document.getElementById('file-input');
         const hasFile = fileInput.files.length > 0;
 
         if(!hasText && !hasFile) {
-            alert('Please provide clinical text or upload a report before analyzing.');
+            alert('Please provide clinical text/prescription text or upload a report/prescription image before analyzing.');
             return;
         }
 
@@ -195,15 +200,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Real API Call via fetch
         const formData = new FormData();
-        formData.append('mode', currentMode);
         formData.append('age', userAge);
         formData.append('gender', userGender);
         formData.append('condition', userCondition);
+        formData.append('mode', currentMode);
         
         // Append depending on what's active
         const isTextActive = document.getElementById('text-input-pane').classList.contains('active');
+        const textAreaVal = document.getElementById('clinical-notes').value;
+        
         if (isTextActive && hasText) {
-            formData.append('text', textArea.value);
+            formData.append('text', textAreaVal);
         } else if (hasFile) {
             formData.append('file', fileInput.files[0]);
         }
@@ -267,42 +274,56 @@ document.addEventListener('DOMContentLoaded', () => {
         stepRes.classList.remove('active');
         stepProc.classList.remove('completed');
         stepInput.classList.remove('completed');
+
+        // Reset to report mode
+        switchMode('report');
     });
 
     const renderResults = (data) => {
         // Main Badge
         const mainBadge = document.getElementById('primary-deficiency-badge');
         mainBadge.textContent = data.predicted_deficiency;
-        if(data.predicted_deficiency.toLowerCase().includes('no deficiency')) {
+        if(data.predicted_deficiency.toLowerCase().includes('no deficiency') || data.predicted_deficiency.toLowerCase().includes('low risk')) {
             mainBadge.className = 'badge large-badge status-normal';
         } else {
             mainBadge.className = 'badge large-badge status-severe';
         }
 
+        // Detailed Table
         const tbody = document.getElementById('nutrient-table-body');
         tbody.innerHTML = ''; // Clear previous
 
+        // Handle prescription mode (different response format)
         if (currentMode === 'prescription') {
-            const medication = data.extracted_values['Medication Detected'] || 'Unknown';
-            const targetRisk = data.extracted_values['Target Risk'] || 'Unknown';
-            
-            const tr = document.createElement('tr');
-            tr.innerHTML = `
-                <td>Detected Medication</td>
-                <td><strong>${medication}</strong></td>
-                <td>N/A</td>
-                <td><span class="status-badge status-severe">Risk Detected</span></td>
-                <td>Target Risk: ${targetRisk} Deficiency</td>
-            `;
-            tbody.appendChild(tr);
+            const references = {
+                "Medication Detected": { range: "N/A", desc: "Detected medication from prescription" },
+                "Target Risk": { range: "N/A", desc: "Predicted risk category" }
+            };
 
-            // Modify Summary Text
-            document.getElementById('summary-text').textContent = `The prescription indicates usage of ${medication}, which is known to be associated with ${targetRisk} deficiency risk.`;
-            document.getElementById('recommendation-text').textContent = `Recommendation: Close monitoring of ${targetRisk} levels is advised. Consult a physician for supplementation if needed.`;
+            for (const [key, val] of Object.entries(data.extracted_values)) {
+                const ref = references[key] || { range: "N/A", desc: key };
+
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>
+                        ${key}
+                        <span class="info-icon" title="${ref.desc}">?</span>
+                    </td>
+                    <td><strong>${val}</strong></td>
+                    <td>${ref.range}</td>
+                    <td><span class="status-badge status-severe">${key === 'Target Risk' ? 'Risk Category' : 'Detected'}</span></td>
+                    <td>Consult a pharmacist for guidance</td>
+                `;
+                tbody.appendChild(tr);
+            }
+
+            document.getElementById('summary-text').textContent = `A prescription was analyzed and detected ${data.extracted_values['Medication Detected']}. The predicted risk category is: ${data.extracted_values['Target Risk']}.`;
+            document.getElementById('recommendation-text').textContent = `Recommendation: Please consult a pharmacist or healthcare provider to understand potential drug interactions and nutrient depletions caused by this medication.`;
             
-            return; // Skip the rest of the lab report rendering
+            return;
         }
 
+        // Handle medical report mode (original logic)
         const references = {
             "Vitamin D": { range: "20 - 50 ng/mL", desc: "Bone health, immune function" },
             "Vitamin B12": { range: "200 - 900 pg/mL", desc: "Nerve function, red blood cells" },
@@ -400,7 +421,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const opt = {
                 margin:       0.5,
-                filename:     'NutraDetector_Report.pdf',
+                filename:     'NutriDetector_Report.pdf',
                 image:        { type: 'jpeg', quality: 0.98 },
                 html2canvas:  { scale: 2, useCORS: true, scrollY: 0, scrollX: 0, windowWidth: document.documentElement.scrollWidth },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }

@@ -6,8 +6,8 @@ import time
 import io
 import re
 import pickle
-import joblib
 import numpy as np
+import joblib
 import pytesseract
 from PIL import Image
 from pdf2image import convert_from_bytes
@@ -143,6 +143,7 @@ def predict_deficiency():
     condition = request.form.get("condition")
     text = request.form.get("text")
     file = request.files.get("file")
+    mode = request.form.get("mode", "report")
     
     extracted_text = ""
 
@@ -163,14 +164,16 @@ def predict_deficiency():
             else:
                 image = Image.open(io.BytesIO(contents))
                 
-                # Image preprocessing for better OCR
+                # Convert safely to RGB to drop alpha channels if any
                 image = image.convert('RGB')
-                
+
+                # Tesseract's default Page Segmentation Mode (PSM 3) handles tables, blocks, 
+                # and text scattered across prescriptions far better than custom filtering
+                config = r'-c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.-: --psm 3'
+
                 # Run local OCR
-                print("Running pytesseract OCR on uploaded image...")
-                # Use --psm 11 to extract as much sparse text as possible anywhere on the page, 
-                # ignoring table structures since we flatten the text for regex matching perfectly.
-                extracted_text = pytesseract.image_to_string(image, config=r'--psm 11')
+                print(f"Running pytesseract OCR in {mode} mode on uploaded image...")
+                extracted_text = pytesseract.image_to_string(image, config=config)
                 print(f"OCR extracted text: {extracted_text[:100]}...") # Print preview
         except Exception as e:
             return jsonify({"error": f"OCR Processing failed: {str(e)}"}), 400
@@ -182,45 +185,53 @@ def predict_deficiency():
     if not extracted_text.strip():
         extracted_text = "Empty sample submitted."
 
-    mode = request.form.get("mode", "report")
-
+    # Handle Prescription Mode
     if mode == 'prescription':
         clean_text_pres = " ".join(extracted_text.split()).lower()
-        clean_text_pres_no_space = clean_text_pres.replace(" ", "")
-        detected_med = None
+        clean_text_pres_no_space = re.sub(r'[^a-z0-9]', '', clean_text_pres)
+        detected_meds = []
+        
         if med_encoder is not None:
             for med in med_encoder.classes_:
-                if med.lower() in clean_text_pres or med.lower().replace(" ", "") in clean_text_pres_no_space:
-                    detected_med = med
-                    break
+                med_lower = med.lower()
+                base_name = med_lower.split("(")[0].strip()
+                clean_base_name = re.sub(r'[^a-z0-9]', '', base_name)
+                
+                # Check for whole name, base name, or alphanumeric-only to handle OCR dropped punctuation
+                if (med_lower in clean_text_pres or 
+                    clean_base_name in clean_text_pres_no_space):
+                    detected_meds.append(med)
         
-        if not detected_med:
-             return jsonify({"error": "No known medication detected in the prescription. Please upload a clear prescription."}), 400
+        if not detected_meds:
+            return jsonify({"error": "No known medication detected in the prescription. Please upload a clear prescription."}), 400
 
         try:
             gender_val = 'Male' if gender.upper() == 'M' else 'Female'
             g_encoded = gender_encoder.transform([gender_val])[0]
-            m_encoded = med_encoder.transform([detected_med])[0]
             
-            raw_input = np.array([[age, g_encoded, m_encoded]])
-            input_scaled = scaler2.transform(raw_input)
-            input_tensor = torch.FloatTensor(input_scaled).to(device)
+            # Run inference for each detected medication
+            medication_risks = {}
+            for med in detected_meds:
+                m_encoded = med_encoder.transform([med])[0]
+                
+                raw_input = np.array([[age, g_encoded, m_encoded]])
+                input_scaled = scaler2.transform(raw_input)
+                input_tensor = torch.FloatTensor(input_scaled).to(device)
 
-            with torch.no_grad():
-                logits = pres_model(input_tensor)
-                pred_idx = torch.argmax(logits, dim=1).item()
+                with torch.no_grad():
+                    logits = pres_model(input_tensor)
+                    pred_idx = torch.argmax(logits, dim=1).item()
+                
+                target_risk = target_encoder.inverse_transform([pred_idx])[0]
+                medication_risks[med] = target_risk
             
-            target_risk = target_encoder.inverse_transform([pred_idx])[0]
         except Exception as e:
             print(f"Prescription Inference error: {e}")
             return jsonify({"error": "Failed to process prescription."}), 500
 
         response = {
-            "extracted_values": {
-                "Medication Detected": detected_med,
-                "Target Risk": target_risk
-            },
-            "predicted_deficiency": f"High Risk: {target_risk} Deficiency",
+            "extracted_values": medication_risks,
+            "predicted_deficiency": f"Medications detected: {len(detected_meds)} item(s)",
             "nutrient_status": {}
         }
         return jsonify(response)
